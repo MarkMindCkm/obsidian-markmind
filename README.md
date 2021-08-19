@@ -62,8 +62,7 @@ The mindmap data will store to `json`.
 | Change mindmap layout                   | Ctrl/Cmd + U / D / L / R / M |
 | delete summary / boundary / relate link | Delete/Backspace             |
 
-
-
+![test](https://user-images.githubusercontent.com/18719494/130028629-1a1e448d-32b9-4201-b152-1ad09439e18e.gif)
 
 
 ## PDF annotate
