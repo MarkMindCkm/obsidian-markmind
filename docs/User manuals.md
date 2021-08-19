@@ -1,47 +1,5 @@
 # obsidian mark mind
 
-## introduction
-
-Obsidian mark mind is a mind map and pdf annotate tool base on obsidian api.
-
-## Mind map introduction
-
-it contains  two modes : basic and rich 
-
-The yaml :
-
-```yaml
----
-mindmap-plugin:basic (or rich)
----
-```
-
-In the basic mode , you can only use the basic mind map function , it is the obsidian-enhancing-mindmap plugin.
-
-In the rich mode , you can use all functions of mind map and pdf annotate function.
-
-- summary
-- boundary
-- node relate link
-- free node
-
-### Rich mode will output  this  markdown:
-
-```markdown
----
-mindmap-plugin:rich
----
-
-# md 
-
-​``` json
-{...}
-​```
-
-```
-
-The mindmap data will store to `json`.
-
 ### mindmap short cut
 
 | New Mind Map                            | Ctrl/Cmd+P                   |
@@ -64,21 +22,13 @@ The mindmap data will store to `json`.
 
 
 
-
-
-## PDF annotate
-
-- highlight text
-- rectangular annotate
-- relate  mind map node and annotate
-
 ### how to use pdf annotate
 
 ### step
 
 1. You need download pdf js plugin 
 2. Open Setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
-3. change the yaml to rich
+3.  change the yaml to rich
 4. open as mind map
 5. use `[[]]` to reference pdf
 6. click pdf reference , it will open a pdf reader if pdf plugin path is correct
@@ -94,10 +44,6 @@ The mindmap data will store to `json`.
 ### demonstration
 
 
-
-## Notice 
-
-This is not an open source project , It is currently in beta .
 
 
 
