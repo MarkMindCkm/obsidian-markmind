@@ -31,7 +31,9 @@ In the rich mode , you can use all functions of mind map and pdf annotate functi
 
 ```markdown
 ---
+
 mindmap-plugin:rich
+
 ---
 
 # md 
