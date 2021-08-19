@@ -12,7 +12,9 @@ The yaml :
 
 ```yaml
 ---
+
 mindmap-plugin:basic (or rich)
+
 ---
 ```
 
