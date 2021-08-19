@@ -1,3 +1,4 @@
+
 # obsidian mark mind
 
 ## introduction
@@ -66,6 +67,8 @@ The mindmap data will store to `json`.
 | Change mindmap layout                   | Ctrl/Cmd + U / D / L / R / M |
 | delete summary / boundary / relate link | Delete/Backspace             |
 
+---
+
 <img src = 'https://user-images.githubusercontent.com/18719494/130028629-1a1e448d-32b9-4201-b152-1ad09439e18e.gif' width="800px">
 
 
@@ -96,7 +99,7 @@ The mindmap data will store to `json`.
 
 ### demonstration
 
-
+<img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
 ## Notice 
 
