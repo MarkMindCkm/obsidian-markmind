@@ -90,12 +90,19 @@ The mindmap data will store to `json`.
 6. click pdf reference , it will open a pdf reader if pdf plugin path is correct
 7. use pdf annotate function , it will create `annos` file in your folder, the `annos` file will  store annotations 
 
-### how to relate mind map node and annotate?
+### how to relate mind map node and annotate?\
 
+#### default
 - make a pdf annotate
 - click pdf annotate
 - edit mind map node , `ctrl/cmd + v` to relate node and annotate
 - click node pdf annotate mark will auto copy `id` of annotate to clipboard
+
+#### Support protoco,`obsidian://jump-to-pdf`
+- open protocol support in setting tab
+- automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate
+- paste to markdown file
+
 
 ### demonstration
 
