@@ -1,7 +1,7 @@
 
-# obsidian mark mind
+# Obsidian mark mind
 
-## introduction
+## Introduction
 
 Obsidian mark mind is a mind map and pdf annotate tool base on obsidian api.
 
@@ -78,7 +78,7 @@ The mindmap data will store to `json`.
 - rectangular annotate
 - relate  mind map node and annotate
 
-### how to use pdf annotate
+### How to use pdf annotate
 
 ### step
 
@@ -90,9 +90,9 @@ The mindmap data will store to `json`.
 6. click pdf reference , it will open a pdf reader if pdf plugin path is correct
 7. use pdf annotate function , it will create `annos` file in your folder, the `annos` file will  store annotations 
 
-### how to relate mind map node and annotate?
+### How to relate mind map node and annotate?
 
-#### default
+#### Default
 - make a pdf annotate
 - click pdf annotate
 - edit mind map node , `ctrl/cmd + v` to relate node and annotate
@@ -104,7 +104,7 @@ The mindmap data will store to `json`.
 - paste to markdown file
 
 
-### demonstration
+### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
