@@ -90,7 +90,7 @@ The mindmap data will store to `json`.
 6. click pdf reference , it will open a pdf reader if pdf plugin path is correct
 7. use pdf annotate function , it will create `annos` file in your folder, the `annos` file will  store annotations 
 
-### how to relate mind map node and annotate?\
+### how to relate mind map node and annotate?
 
 #### default
 - make a pdf annotate
