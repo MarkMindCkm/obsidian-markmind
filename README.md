@@ -98,7 +98,7 @@ The mindmap data will store to `json`.
 - edit mind map node , `ctrl/cmd + v` to relate node and annotate
 - click node pdf annotate mark will auto copy `id` of annotate to clipboard
 
-#### Support protoco,`obsidian://jump-to-pdf`
+#### Support `obsidian://jump-to-pdf` protocol,you can reference PDF annotate in markdown file
 - open protocol support in setting tab
 - automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate
 - paste to markdown file
