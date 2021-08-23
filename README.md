@@ -82,7 +82,7 @@ The mindmap data will store to `json`.
 
 ### step
 
-1. You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.0/pdfjs.rar)
+1. You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.2/pdfjs.rar)
 2. Open Setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 3. change the yaml to rich
 4. open as mind map
