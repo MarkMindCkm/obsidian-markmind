@@ -83,27 +83,37 @@ The mindmap data will store to `json`.
 ### step
 
 1. You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.2/pdfjs.rar)
-2. Open Setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
-3. change the yaml to rich
-4. open as mind map
-5. use `[[]]` to reference pdf
-6. click pdf reference , it will open a pdf reader if pdf plugin path is correct
-7. use pdf annotate function , it will create `annos` file in your folder, the `annos` file will  store annotations 
+2. Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
+3. Open as mind map
+4. Use `[[]]` to reference pdf
+5. Click pdf reference , it will open a pdf reader if pdf plugin path is correct
+6. Use pdf annotate function 
+   - it will create `annos` file in your folder as default, the `annos` file store annotations data,`annos` file is a `json` file in fact
+   - if you select (save pdf annotation type ) `markdown` in setting tab , it will create `${pdf name}-annotate.md` file in your folder. Each annotation has an associated quote block with a block reference. please do not  modify these blocks
+   
 
-### How to relate mind map node and annotate?
+### how to relate mind map node and annotate?
+
+There are three ways to  relate mind map node and annotate
 
 #### Default
+
 - make a pdf annotate
 - click pdf annotate
 - edit mind map node , `ctrl/cmd + v` to relate node and annotate
 - click node pdf annotate mark will auto copy `id` of annotate to clipboard
 
-#### Support `obsidian://jump-to-pdf` protocol,you can reference PDF annotate in markdown file
+
+#### Support `obsidian://jump-to-pdf` protocol
+
 - open protocol support in setting tab
 - automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate
 - paste to markdown file
 
+#### If you use markdown to save pdf annotations
 
+-	you can use `[[${md name}#${block reference}]]` to associate quote block with a block reference.
+-	An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight. If the file is already open in a pane, then the link will cause the existing pane to scroll instead.
 ### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
