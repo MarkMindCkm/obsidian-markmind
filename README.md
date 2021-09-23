@@ -19,14 +19,14 @@ This is a big version:
 4. fix #8   
 5. Support multi open pdf annotate  
 6. support add comment to annotation  
-7. support committing highlights and notes to PDFs ，you can find `export pdf annotate` menu in more menus , it will create a file in your folder,the name is `${pdf name}-annotate.pdf`
-8. Split PDF annotation and mindmap function
-9. change in  `basic` mode , mind map layout from `tree` to `mind map` 
-10. fix #2 , in `rich` mode
- - if save data first time , it will output this markdown 
- - if it is not the first time to save data , it will only replace '${mindmap data}', so you can change `md` file
- - if you want to reference node ,  it will automatic create mind map node reference link and copy to clipboard when click node and press ctrl or command
-<pre>
+7. support committing highlights and notes to PDFs ，you can find `export pdf annotate` menu in more menus , it will create a file in your folder,the name is `${pdf name}-annotate.pdf`  
+8. Split PDF annotation and mindmap function  
+9. change in  `basic` mode , mind map layout from `tree` to `mind map`   
+10. fix #2 , in `rich` mode  
+ - if save data first time , it will output this markdown   
+ - if it is not the first time to save data , it will only replace '${mindmap data}', so you can change `md` file  
+ - if you want to reference node ,  it will automatic create mind map node reference link and copy to clipboard when click node and press ctrl or command  
+<pre>  
 ---
 mindmap-plugin: rich
 ---
@@ -36,11 +36,11 @@ mindmap-plugin: rich
   ${mindmap data}
 ```
 
-</pre>
+</pre>  
  
-<hr>
+<hr>  
   
-The use type of PDF annotation has changed , if you want to use annotate function, you can add `yaml` to markdown file:
+The use type of PDF annotation has changed , if you want to use annotate function, you can add `yaml` to markdown file:  
 
 ```
 ---
@@ -51,17 +51,17 @@ annotate-type: pdf
 ---
 ```
 
-then you can find `annotate pdf` menu in more menus
+then you can find `annotate pdf` menu in more menus  
 
-1. you can select `md` or `annos` to save annotations in setting tab
-  - `annos` is default , it is `json` file in fact , you can use `obsidian://jump-to-pdf` to reference annotate ,
-      - annotations do not contaminate MD files When referenced
-  - `md` is the recommended way 
-     - you can use `obsidian://jump-to-pdf` to reference annotate
-     -  or you can ![[ md#^block id]] to to reference annotate
- 2. please open `obsidian://jump-to-pdf` protocol in setting tab
-
-<hr>
+1. you can select `md` or `annos` to save annotations in setting tab  
+  - `annos` is default , it is `json` file in fact , you can use `obsidian://jump-to-pdf` to reference annotate ,  
+      - annotations do not contaminate MD files When referenced  
+  - `md` is the recommended way   
+     - you can use `obsidian://jump-to-pdf` to reference annotate 
+     -  or you can ![[ md#^block id]] to to reference annotate  
+ 2. please open `obsidian://jump-to-pdf` protocol in setting tab  
+ 
+<hr>  
 
 ## Introduction
 
