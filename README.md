@@ -13,12 +13,12 @@ This is a big version:
 
 <hr>
 
-1, fix #18 , you can select pdf viewer theme in setting tab
-2. fix #17 
-3. fix #15 
-4. fix #8 
-5. Support multi open pdf annotate
-6. support add comment to annotation
+1, fix #18 , you can select pdf viewer theme in setting tab  
+2. fix #17   
+3. fix #15   
+4. fix #8   
+5. Support multi open pdf annotate  
+6. support add comment to annotation  
 7. support committing highlights and notes to PDFs ，you can find `export pdf annotate` menu in more menus , it will create a file in your folder,the name is `${pdf name}-annotate.pdf`
 8. Split PDF annotation and mindmap function
 9. change in  `basic` mode , mind map layout from `tree` to `mind map` 
