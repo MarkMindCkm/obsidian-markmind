@@ -3,7 +3,8 @@
 
 
 ## Change log  v1.0.5
-fix mindmap `rich` mode bug
+
+emergency fix mindmap `rich` mode bug
 
 ### v1.0.4
 
