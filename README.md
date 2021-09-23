@@ -2,9 +2,8 @@
 # Obsidian mark mind
 
 
-## Change log
+## Change log  v1.0.4
 
-### 1.0.4
 This is a big version: 
 
  **Notice**:
