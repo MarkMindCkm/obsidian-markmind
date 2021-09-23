@@ -4,8 +4,8 @@
 
 ## Change log  v1.0.6
 
-fix #22
-fix #21
+emergency fix #22  
+emergency fix #21
 
 ### v1.0.5  
 
