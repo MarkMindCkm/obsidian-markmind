@@ -61,6 +61,8 @@ then you can find `annotate pdf` menu in more menus
  2. please open `obsidian://jump-to-pdf` protocol in setting tab  
  
 <hr>  
+<br>
+<br>
 
 ## Introduction
 
