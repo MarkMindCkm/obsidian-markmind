@@ -2,7 +2,10 @@
 # Obsidian mark mind
 
 
-## Change log  v1.0.4
+## Change log  v1.0.5
+fix mindmap `rich` mode bug
+
+### v1.0.4
 
 This is a big version: 
 
