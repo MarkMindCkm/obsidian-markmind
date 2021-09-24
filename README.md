@@ -7,6 +7,10 @@
 emergency fix #22  
 emergency fix #21
 
+ **Notice**:
+ **You should to download the pdfjs plugin again [PDFJS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.4/pdfjs.zip), it keep more functions and it support multi open**
+
+
 ### v1.0.5  
 
 emergency fix mindmap `rich` mode bug
@@ -14,12 +18,6 @@ emergency fix mindmap `rich` mode bug
 ### v1.0.4
 
 This is a big version: 
-
- **Notice**:
- **You should to download the pdfjs plugin again [PDFJS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.4/pdfjs.zip), it keep more functions and it support multi open**
-
-
-<hr>
 
 1, fix #18 , you can select pdf viewer theme in setting tab  
 2. fix #17   
