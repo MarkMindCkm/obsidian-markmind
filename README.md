@@ -23,7 +23,10 @@ emergency fix mindmap `rich` mode bug
 
 ### v1.0.4
 
+
 This is a big version: 
+ **Notice**:
+ **You should to download the pdfjs plugin  [PDFJS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.7/pdfjs.zip), it keep more functions and it support multi open**
 
 1, fix #18 , you can select pdf viewer theme in setting tab  
 2. fix #17   
