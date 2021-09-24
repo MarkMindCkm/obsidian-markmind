@@ -7,7 +7,7 @@
 emergency fix #22  
 emergency fix #21
 
- **Notice**:
+ **Important**:
  **You should to download the pdfjs plugin again [PDFJS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.4/pdfjs.zip), it keep more functions and it support multi open**
 
 
