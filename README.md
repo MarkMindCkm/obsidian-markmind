@@ -1,6 +1,11 @@
 
 # Obsidian mark mind
 
+## Notice 
+
+This is not an open source project , It is currently in beta .
+Web site : https://www.markmind.net
+
 
 ## Change log  v1.0.6
 
@@ -188,10 +193,7 @@ There are three ways to  relate mind map node and annotate
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
-## Notice 
 
-This is not an open source project , It is currently in beta .
-Web site : https://www.markmind.net
 
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
