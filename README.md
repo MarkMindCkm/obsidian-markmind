@@ -3,7 +3,7 @@
 
 ## Notice 
 
-This is not an open source project , It is currently in beta .
+This is not an open source project .  
 Web site : https://www.markmind.net
 
 
