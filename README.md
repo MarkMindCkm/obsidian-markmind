@@ -7,14 +7,15 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.0.6
-
-emergency fix #22  
-emergency fix #21
+## Change log  v1.0.7
+fix #24 , fix pdf select multi line to highlight
 
  **Important**:
  **You should to download the pdfjs plugin again [PDFJS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.7/pdfjs.zip), it keep more functions and it support multi open**
 
+### v1.0.6
+emergency fix #22  
+emergency fix #21
 
 ### v1.0.5  
 
