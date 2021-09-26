@@ -9,7 +9,8 @@ Web site : https://www.markmind.net
 
 ## Change log  v1.0.8
 
-fix #26
+fix #26  
+fix miss markdown format in `list` mode when use ctrl + down / up
 
 ### v1.0.7
 fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf plugin
