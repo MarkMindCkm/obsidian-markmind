@@ -7,7 +7,11 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.0.7
+## Change log  v1.0.8
+
+fix #26
+
+### v1.0.7
 fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf plugin
 
  **Important**:
