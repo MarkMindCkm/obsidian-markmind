@@ -170,7 +170,7 @@ annotate-type: pdf
 
 ---
 ```
-Then you can fin menu `annotate pdf` in `more options`;
+Then you can find menu `annotate pdf` in `more options`;
 
 ### Mind Map
 
