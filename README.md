@@ -158,6 +158,7 @@ The mindmap data will store to `json`.
 - relate  mind map node and annotate
 
 ### How to use pdf annotate
+> You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.7/pdfjs.zip)
 
 ### Markdown  
 Add yaml to markdown file:  
@@ -174,7 +175,7 @@ Then you can find menu `annotate pdf` in `more options`;
 
 ### Mind Map
 
-1. You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.0.7/pdfjs.zip)
+1. You need download pdf js plugin 
 2. Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 3. Open as mind map
 4. Use `[[]]` to reference pdf
