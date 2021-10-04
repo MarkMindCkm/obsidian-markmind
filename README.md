@@ -7,7 +7,33 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.0.8
+## Change log  v1.0.9
+### this is a big version
+
+1. fix #4 ,  pdf annotate support all pdf files on disks by using `file://` ，this feature can only use to  desktop app  , if you use `file://` , the annotatios will be save to this markdown file 
+
+```
+annotate-target: file://${ pdf absolute path}
+annotate-type: pdf
+
+```
+2. fix #29 , support mobile from this version， it has consistent experience with desktop version
+
+3. add command :
+- select node , change layout  in `rich` mode of mindmap
+- toggle markdown and mindmap mode
+- add some menus of `more options` in `rich` mode of mindmap ，(copy text to clipboard automatic)
+   - Copy node text  as markdown (contains children)，the text type like `basic` mode
+   - Copy node text (only this node)
+   - Copy node links , you can reference it in other md file
+ 
+4. support change summary/boundary/relate link color
+
+![12117](https://user-images.githubusercontent.com/18719494/135819440-34380383-0a3a-481c-b5ac-205f6a9da155.gif)
+<img src="https://user-images.githubusercontent.com/18719494/135823093-f34d6870-7dfb-4646-8874-1347ad5047f0.gif" width="300"/>
+
+
+### v1.0.8
 
 fix #26  
 fix miss markdown format in `list` mode when use ctrl + down / up
