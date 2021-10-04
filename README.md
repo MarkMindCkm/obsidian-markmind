@@ -28,6 +28,8 @@ annotate-type: pdf
    - Copy node links , you can reference it in other md file
  
 4. support change summary/boundary/relate link color
+5. if you set up active code in setting tab of desktop version , it will create mobile active code in your plugin obsidian-markmind data.json automatic
+6. support move root of mindmap in rich mode
 
 ![12117](https://user-images.githubusercontent.com/18719494/135819440-34380383-0a3a-481c-b5ac-205f6a9da155.gif)
 <img src="https://user-images.githubusercontent.com/18719494/135823093-f34d6870-7dfb-4646-8874-1347ad5047f0.gif" width="300"/>
