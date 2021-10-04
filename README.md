@@ -13,7 +13,7 @@ Web site : https://www.markmind.net
 1. fix #4 ,  pdf annotate support all pdf files on disks by using `file://` ，this feature can only use to  desktop app  , if you use `file://` , the annotatios will be save to this markdown file 
 
 ```
-annotate-target: file://${ pdf absolute path}
+annotate-target: file://pdf absolute path
 annotate-type: pdf
 
 ```
