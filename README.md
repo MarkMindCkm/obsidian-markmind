@@ -82,10 +82,10 @@ fix #26
 fix miss markdown format in `list` mode when use ctrl + down / up
 
 ### v1.0.7
-fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf plugin
+fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf plugin  
 
  **Important**:
- **You should to download the pdfjs plugin again PDFJS Plugin, it keep more functions and it support multi open**
+ **You should to download the pdfjs plugin again PDFJS Plugin, it keep more functions and it support multi open**  
  PC： [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
  Mobile： [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
 
