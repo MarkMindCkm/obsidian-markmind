@@ -7,7 +7,48 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.0.9
+## Change log  v1.1.0
+
+**Important**
+In this version ,You should download pdfjs plugin again
+
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
+Andriod/ios : [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
+
+You should set up pdf js plugun path in setting tab , it is a absolute path 
+For example : 
+  - ` D:plugins/pdfjs `   in pc 
+  - `/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`  in andriod
+
+you should put pdfjs plugin to a accessible folder in mobile . 
+you can find your vault  path in mobile app , the best way is create a folder in your vault , then put pdfjs plugin in it.
+
+
+1. fix #40  ， you can select mode  of mindmap  (when create mindmap) in setting tab , the default is `basic`
+2. pdf annotate support mobile , only support pdf of your vault , not support `file://`
+3. in md file , support use `[[md#^node id]]`  to reference  node of `rich` mode mindmap , you can find menu `copy node id` in `more options`
+4. support set up image folder in setting tab to save image of pdf rect annotate .
+   - for example :  `Screenshot` , the Screenshot folder must be exists  in your vault, the image of rect annotate will be save to `Screenshot` folder
+   
+5. fix when annotate `file:// pdf path` cannot use rect annotate bug
+6. support 3 theme of mindmap , you can add yaml to markdown
+``` 
+---
+
+mindmap-plugin: basic( or rich )
+mindmap-theme: drak(or light or card)
+
+---
+```
+
+Markmind all functions will support mobile and pc from this version ,andriod/apple/window/linux has consistent experience.
+
+
+<img src="https://user-images.githubusercontent.com/18719494/136696974-a776ad2c-aab5-4d62-917f-2b294d1da40a.gif" width="300"/> <img src="https://user-images.githubusercontent.com/18719494/136696996-36cd0e77-8212-4b6f-8f55-6dbf617cf906.gif" width="300"/>
+
+![动画1211713467](https://user-images.githubusercontent.com/18719494/136694951-9bb9720d-b5e3-4622-8929-70de6fb7f24a.gif)
+
+## v1.0.9
 ### this is a big version
 
 1. fix #4 ,  pdf annotate support all pdf files on disks by using `file://` ，this feature can only use to  desktop app  , if you use `file://` , the annotatios will be save to this markdown file 
