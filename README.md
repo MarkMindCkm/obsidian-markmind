@@ -36,7 +36,7 @@ you can find your vault  path in mobile app , the best way is create a folder(fo
 ---
 
 mindmap-plugin: basic( or rich )
-mindmap-theme: drak(or light or card)
+mindmap-theme: dark(or light or card)  
 
 ---
 ```
