@@ -15,7 +15,7 @@ In this version ,You should download pdfjs plugin again
 PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
 Andriod/ios : [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
 
-You should set up pdf js plugun path in setting tab , it is a absolute path   
+You should set up pdf js plugin path in setting tab , it is a absolute path   
 **For example** : 
   - ` D:plugins/pdfjs `   in pc 
   - `/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`  in andriod
