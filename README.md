@@ -15,13 +15,13 @@ In this version ,You should download pdfjs plugin again
 PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
 Andriod/ios : [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
 
-You should set up pdf js plugun path in setting tab , it is a absolute path 
-For example : 
+You should set up pdf js plugun path in setting tab , it is a absolute path   
+**For example** : 
   - ` D:plugins/pdfjs `   in pc 
   - `/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`  in andriod
 
 you should put pdfjs plugin to a accessible folder in mobile . 
-you can find your vault  path in mobile app , the best way is create a folder in your vault , then put pdfjs plugin in it.
+you can find your vault  path in mobile app , the best way is create a folder(for example `plugin` folder) in your vault  , then put pdfjs plugin in it.
 
 
 1. fix #40  ， you can select mode  of mindmap  (when create mindmap) in setting tab , the default is `basic`
