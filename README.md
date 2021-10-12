@@ -7,13 +7,46 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.1.0
+## Change log  v1.1.1
+**important:**  
+Mobile pdf js plugin need to download again  
 
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
+ 
+
+1. fix iPhone/iPad cannot use pdf annotate bug
+
+Please set up pdfjs path in setting tab , this is a absolute path ,( you can find  absolute path of your vault in obsidian app ) the best way is create a folder in your vault , for example :`plugin` folder, then put pdfjs plugin in it 
+
+
+**About iPhone/iPad pdfjs path**:
+for example (iPad), you create `plugin` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
+`/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/plugin/pdfjs`
+
+`FACF6387-DAA2-45B3-8F52-3536E1EC29A1`  are different on each device 
+
+**About andriod pdfjs path**,for example,like this
+`/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`
+
+**About PC pdfjs path**,like this
+
+`D:plugin/pdfjs`
+
+---
+
+iPad screen short
+![68747470733a2f2f692e6c6f6c692e6e65742f323032312f31302f31312f3431557933536d756a4b723835515a2e706e67](https://user-images.githubusercontent.com/18719494/136878933-3c86d930-e2fd-4dd4-8c1e-8c4de6cc1ac7.png)
+
+
+### v1.1.0
 **Important**
 In this version ,You should download pdfjs plugin again
 
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
-Andriod/ios : [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
 You should set up pdf js plugin path in setting tab , it is a absolute path   
 **For example** : 
@@ -86,8 +119,9 @@ fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf
 
  **Important**:
  **You should to download the pdfjs plugin again PDFJS Plugin, it keep more functions and it support multi open**  
- PC： [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
- Mobile： [Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
 ### v1.0.6
 emergency fix #22  
@@ -236,8 +270,9 @@ The mindmap data will store to `json`.
 ### How to use pdf annotate
 > You need download pdf js plugin , download pdf js plugin,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-**PC version**：[Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)  
-**Mobile version**：[Mobile pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)  
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
 ### Markdown  
 Add yaml to markdown file:  
