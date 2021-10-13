@@ -301,7 +301,7 @@ Then you can find menu `annotate pdf` in `more options`;
 
 There are three ways to  relate mind map node and annotate
 
-#### Default
+#### Default (only support rich mode)
 
 - make a pdf annotate
 - click pdf annotate
@@ -309,13 +309,13 @@ There are three ways to  relate mind map node and annotate
 - click node pdf annotate mark will auto copy `id` of annotate to clipboard
 
 
-#### Support `obsidian://jump-to-pdf` protocol
+#### Support `obsidian://jump-to-pdf` protocol  (support basic and rich mode)
 
 - open protocol support in setting tab
 - automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate
 - paste to markdown file
 
-#### If you use markdown to save pdf annotations
+#### If you use markdown to save pdf annotations  (support basic and rich mode)
 
 -	you can use `[[${md name}#${block reference}]]` to associate quote block with a block reference.
 -	An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight. If the file is already open in a pane, then the link will cause the existing pane to scroll instead.
