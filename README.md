@@ -7,7 +7,11 @@ This is not an open source project .
 Web site : https://www.markmind.net
 
 
-## Change log  v1.1.1
+## Change log  v1.1.2
+fix #46
+add `set mindmap to center` menu in `more options`
+
+v1.1.1
 **important:**  
 Mobile pdf js plugin need to download again  
 
