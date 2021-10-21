@@ -208,7 +208,7 @@ The yaml :
 ```yaml
 ---
 
-mindmap-plugin:basic (or rich)
+mindmap-plugin: basic (or rich)
 
 ---
 ```
