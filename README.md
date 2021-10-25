@@ -58,7 +58,7 @@ mindmap-plugin: basic
 - Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
 
-### outline
+### Outline
 
 You can add yaml to active outline mode:
 
@@ -83,6 +83,8 @@ display-mode: outline
 | Zoom out             | Ctrl/Cmd+[                      |
 | Move Up Or Down Node | Ctrl/Cmd + up/down              |
 
+
+![outline](https://user-images.githubusercontent.com/18719494/138630597-fc2396d1-c818-43dc-83eb-fa638d8a0028.gif)
 
 
 
