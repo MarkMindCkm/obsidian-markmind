@@ -9,7 +9,7 @@ Web site : https://www.markmind.net
 
 ## Introduction
 
-Obsidian mark mind is a mind map and pdf annotate tool base on obsidian api.
+Obsidian mark mind is a mind map,outline and pdf annotate tool base on obsidian api.
 
 ## Mind map introduction
 
