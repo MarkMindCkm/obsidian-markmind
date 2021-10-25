@@ -28,7 +28,7 @@ Then you can find `Open as mindmap` menu in `more options`
 
 ## In `basic` mode
 
-In the basic mode , you can  use the basic mind map function and use outline mode , it like the obsidian-enhancing-mindmap plugin.
+You can  use the basic mind map function and use outline mode , it like the obsidian-enhancing-mindmap plugin.
 
 ### `basic` mode will output this mardkown:
 
