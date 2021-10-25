@@ -25,31 +25,74 @@ mindmap-plugin: basic (or rich)
 ---
 ```
 
+## In `basic` mode
+
 In the basic mode , you can  use the basic mind map function and use outline mode , it like the obsidian-enhancing-mindmap plugin.
 
-`basic` mode will output this mardkown:
+### `basic` mode will output this mardkown:
 
+```
+---
 
+mindmap-plugin: basic
 
-if you add yaml `outline` in `basic` mode , it will render to outline :
+---
 
-```yaml
+# Enhancing Mind map
+
+## Links
+- <https://github.com/MarkMindLtd/obsidian-enhancing-mindmap>
+- [GitHub](https://github.com/MarkMindLtd/obsidian-enhancing-mindmap)
+
+## Related
+- [coc-markmap](https://github.com/gera2ld/coc-markmap)
+- [gatsby-remark-markmap](https://github.com/gera2ld/gatsby-remark-markmap)
+
+## Features
+- links
+- **inline** ~~text~~ *styles*
+- multiline
+   text
+- `inline code`
+- Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+
+### outline
+
+You can add yaml to active outline mode:
+
+``` 
 ---
 
 mindmap-plugin: basic
 display-mode: outline
 
 ---
+
 ```
 
+#### Outline short cut
+
+| Features             | Short Cut                       |
+| -------------------- | ------------------------------- |
+| New Brother Node     | Enter                           |
+| Indent               | Tab                             |
+| Unindent             | Shift+Tab                       |
+| Zoom in              | Ctrl/Cmd+] Or Double Click Dott |
+| Zoom out             | Ctrl/Cmd+[                      |
+| Move Up Or Down Node | Ctrl/Cmd + up/down              |
 
 
-In the rich mode , you can use all functions of mind map and pdf annotate function.
 
-- summary
-- boundary
-- node relate link
-- free node
+
+## In `rich` mode
+
+You can use all functions of mind map .
+
+- add summary
+- add boundary
+- add node relate link
+- add free node
 
 ### Rich mode will output  this  markdown:
 
@@ -68,7 +111,7 @@ mindmap-plugin: rich
 
 ```
 
-The mindmap data will store to `json`.
+The mindmap data will store to `json`. 
 
 ### mindmap short cut
 
