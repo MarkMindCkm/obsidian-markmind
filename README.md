@@ -24,6 +24,7 @@ mindmap-plugin: basic (or rich)
 
 ---
 ```
+Then you can find `Open as mindmap` menu in `more options`
 
 ## In `basic` mode
 
