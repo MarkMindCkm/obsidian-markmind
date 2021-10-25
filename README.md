@@ -39,11 +39,11 @@ mindmap-plugin: basic
 
 ---
 
-# Enhancing Mind map
+# Mark mind for obsidian
 
 ## Links
-- <https://github.com/MarkMindLtd/obsidian-enhancing-mindmap>
-- [GitHub](https://github.com/MarkMindLtd/obsidian-enhancing-mindmap)
+- <https://github.com/MarkMindLtd/obsidian-markmind>
+- [GitHub](https://github.com/MarkMindLtd/obsidian-markmind)
 
 ## Related
 - [coc-markmap](https://github.com/gera2ld/coc-markmap)
