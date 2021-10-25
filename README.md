@@ -154,6 +154,20 @@ PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/d
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
+**About iPhone/iPad pdfjs path**:
+for example (iPad), you create `plugin` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
+`/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/plugin/pdfjs`
+
+`FACF6387-DAA2-45B3-8F52-3536E1EC29A1`  are different on each device 
+
+**About andriod pdfjs path**,for example,like this
+`/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`
+
+**About PC pdfjs path**,like this
+
+`D:plugin/pdfjs`
+
+
 ### Markdown  
 Add yaml to markdown file:  
 
