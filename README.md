@@ -223,9 +223,9 @@ There are three ways to  relate mind map node and annotate
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## Change log  v1.1.3
-fix #54 
-fix #28
-fix miss code and link bug in outline mode
+fix #54   
+fix #28  
+fix miss code and link bug in outline mode  
 
 ### v1.1.2
 fix #46  
