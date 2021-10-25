@@ -181,7 +181,7 @@ annotate-type: pdf
 ```
 Then you can find menu `annotate pdf` in `more options`;
 
-### Mind Map
+### Mind Map and pdf annotate 
 
 1. Open as mind map
 2. Use `[[]]` to reference pdf
