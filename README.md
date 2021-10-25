@@ -177,7 +177,7 @@ Then you can find menu `annotate pdf` in `more options`;
    - if you select (save pdf annotation type ) `markdown` in setting tab , it will create `${pdf name}-annotate.md` file in your folder. Each annotation has an associated quote block with a block reference. please do not  modify these blocks
    
 
-### how to relate mind map node and annotate?
+### How to relate mind map node and annotate?
 
 There are three ways to  relate mind map node and annotate
 
