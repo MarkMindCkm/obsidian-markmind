@@ -223,13 +223,13 @@ There are three ways to  relate mind map node and annotate
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## Change log  v1.1.5  
-1.  support add note to mind map node  
+1.  support add note to mind map node in rich mode , note support markdown  
 2. summary node support add child node  
 3.  (ctrl + p) add a command `get base path of vault`  , it will auto copy to clipboard  
 
 ----
 
-1. 思维导图节点支持添加注释笔记，注释支持markdown语法  
+1. rich 模式下，思维导图节点支持添加注释笔记，注释支持markdown语法  
 2. 归纳节点支持添加子节点  
 3. 中文环境可以在设置页面开启  自动移除pdf标注文字之间的空格  
 4. `ctrl + p`  你可以在命令工具中找到 `获取库的基础路径`,执行命令将自动复制库的基础路径至剪贴板  
