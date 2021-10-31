@@ -223,6 +223,14 @@ There are three ways to  relate mind map node and annotate
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## Change log  v1.1.5  
+
+**important:**  
+Please update pdfjs plugin to v1.1.1 version
+
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
+
 1.  support add note to mind map node in rich mode , note support markdown  
 2. summary node support add child node  
 3.  (ctrl + p) add a command `get base path of vault`  , it will auto copy to clipboard  
