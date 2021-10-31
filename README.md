@@ -227,14 +227,6 @@ There are three ways to  relate mind map node and annotate
 2. summary node support add child node  
 3.  (ctrl + p) add a command `get base path of vault`  , it will auto copy to clipboard  
 
-----
-
-1. rich 模式下，思维导图节点支持添加注释笔记，注释支持markdown语法  
-2. 归纳节点支持添加子节点  
-3. 中文环境可以在设置页面开启  自动移除pdf标注文字之间的空格  
-4. `ctrl + p`  你可以在命令工具中找到 `获取库的基础路径`,执行命令将自动复制库的基础路径至剪贴板  
-5. 优化大纲 `[[` 弹出选项，更流畅一些 
-
 ---
 
 ![note](https://user-images.githubusercontent.com/18719494/139576838-812bf0c5-84e5-452e-accb-738517ebe7a9.gif)  
