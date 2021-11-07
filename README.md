@@ -150,7 +150,7 @@ The mindmap data will store to `json`.
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+PC:  [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
@@ -252,7 +252,7 @@ There are three ways to  relate mind map node and annotate
 **important:**  
 Please update pdfjs plugin to v1.1.1 version
 
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+PC  : [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
@@ -283,7 +283,7 @@ add `set mindmap to center` menu in `more options`
 **important:**  
 Mobile pdf js plugin need to download again  
 
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+PC:  [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)   
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
  
