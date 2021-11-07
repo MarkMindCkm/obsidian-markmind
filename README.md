@@ -234,7 +234,7 @@ There are three ways to  relate mind map node and annotate
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## Change log  v1.1.6
-**import**
+**important**
 > please update pc pdfjs plugin  ， mobile pdfjs plugin will update next version
 
 [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)
