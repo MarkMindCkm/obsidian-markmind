@@ -181,6 +181,17 @@ annotate-type: pdf
 ```
 Then you can find menu `annotate pdf` in `more options`;
 
+### short cut of pdf annoate
+
+| Features             | Short Cut                       |
+| -------------------- | ------------------------------- |
+|  Highlight Yellow    | ALT + Y                          |
+| Highlight Green                | ALT + G                            |
+|  Highlight Blue             | ALT + B                       |
+|  Highlight Pink         | ALT + P |
+| Highlight Red            |ALT + R                     |
+|Delete annotate  |    ALT + Delete/Backspace             |
+
 ### Mind Map and pdf annotate 
 
 1. Open as mind map
@@ -235,7 +246,7 @@ There are three ways to  relate mind map node and annotate
 5. mindmap node  support  smooth  move , you shoud open it in setting tab
 6. In rich mode of mindmap , double click the blank space can add free node
 
-| Features             | Short Cut                       |
+|pdf annotate Features             | Short Cut                       |
 | -------------------- | ------------------------------- |
 |  Highlight Yellow    | ALT + Y                          |
 | Highlight Green                | ALT + G                            |
