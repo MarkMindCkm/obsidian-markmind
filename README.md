@@ -222,8 +222,33 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.1.5  
+## Change log  v1.1.6
+**import**
+> please update pc pdfjs plugin  ， mobile pdfjs plugin will update next version
 
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)
+
+1. fix #60 ,  add pdf annotate short cut
+2. fix #61
+3. fix #64 
+4. fix #66 
+5. mindmap node  support  smooth  move , you shoud open it in setting tab
+6. In rich mode of mindmap , double click the blank space can add free node
+
+| Features             | Short Cut                       |
+| -------------------- | ------------------------------- |
+|  Highlight Yellow    | ALT + Y                          |
+| Highlight Green                | ALT + G                            |
+|  Highlight Blue             | ALT + B                       |
+|  Highlight Pink         | ALT + P |
+| Highlight Red            |ALT + R                     |
+|Delete annotate  |    ALT + Delete/Backspace             |
+
+![note 1236](https://user-images.githubusercontent.com/18719494/140644085-fc8c9f2e-d058-4ff5-a436-7edd58e33b42.gif)
+
+
+
+### v1.1.5
 **important:**  
 Please update pdfjs plugin to v1.1.1 version
 
