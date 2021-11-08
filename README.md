@@ -245,6 +245,7 @@ There are three ways to  relate mind map node and annotate
 4. fix #66 
 5. mindmap node  support  smooth  move , you shoud open it in setting tab
 6. In rich mode of mindmap , double click the blank space can add free node
+7. fix #57
 
 |pdf annotate Features             | Short Cut                       |
 | -------------------- | ------------------------------- |
