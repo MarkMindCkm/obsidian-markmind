@@ -167,6 +167,8 @@ for example (iPad), you create `plugin` folder in your vault , then put `pdfjs p
 
 `D:plugin/pdfjs`
 
+
+#### How to get your vault path?
 You can use `ctrl + p` , then you can find `get base path of vault` command
 
 
