@@ -332,7 +332,7 @@ iPad screen short
 **Important**
 In this version ,You should download pdfjs plugin again
 
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)    
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
@@ -407,7 +407,7 @@ fix #24 , fix pdf select multi line to highlight , this problem is caused by pdf
 
  **Important**:
  **You should to download the pdfjs plugin again PDFJS Plugin, it keep more functions and it support multi open**  
-PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/pdfjs.zip)    
+PC : [Pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)    
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
 iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
 
