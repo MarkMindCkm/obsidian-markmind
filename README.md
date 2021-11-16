@@ -238,6 +238,12 @@ There are three ways to  relate mind map node and annotate
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ## Change log  v1.1.8
+
+**important**:  please update pc pdf js  to v1.1.7
+
+[pc pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)
+
+
 1. support a new layout in `rich` mode of mind map , the short cut is `Ctrl/Cmd + J`
 2. support import xmind zen file in `rich` mode of mind map ,  the way is  drag xmind zen file and drop to blank space of mind map in `rich` mode
 3. fix some times can not add/remove free node bug
