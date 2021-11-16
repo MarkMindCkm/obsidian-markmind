@@ -245,8 +245,10 @@ There are three ways to  relate mind map node and annotate
 This is a xmind zen [demo](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.8/note.taking.1.xmind)    
 
 ----
-
+Import xmind zen file  
 ![note 12367133](https://user-images.githubusercontent.com/18719494/141953779-f7e1fdf2-8e0f-4ab0-b099-7d5bfb7a07f5.gif)  
+
+`Ctrl + J` change to new layout  
 ![note 12367133tt](https://user-images.githubusercontent.com/18719494/141953811-9657cf8d-e04e-4c7b-8499-154f9e3272d5.gif)
 
 
