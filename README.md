@@ -169,7 +169,8 @@ for example (iPad), you create `plugin` folder in your vault , then put `pdfjs p
 
 
 #### How to get your vault path?
-You can use `ctrl + p` , then you can find `get base path of vault` command
+You can use `ctrl + p` , then you can find `get base path of vault` command  
+If you use ios , you can try `filza` app , it can find this path
 
 
 ### Markdown  
