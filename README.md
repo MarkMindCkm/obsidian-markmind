@@ -133,7 +133,7 @@ The mindmap data will store to `json`.
 | Tab node                                | Up/down/left/right           |
 | Zoom in/out                             | Ctrl/Cmd + mouse wheel       |
 | Mind map to center                      | Ctrl/Cmd + E                 |
-| Change mindmap layout                   | select node,Ctrl/Cmd + U / D / L / R / M |
+| Change mindmap layout                   | select node,Ctrl/Cmd + U / D / L / R / M / J |
 | delete summary / boundary / relate link | Delete/Backspace             |
 
 ---
@@ -237,7 +237,28 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.1.6
+## Change log  v1.1.8
+1. support a new layout in `rich` mode of mind map , the short cut is `Ctrl/Cmd + J`
+2. support import xmind zen file in `rich` mode of mind map ,  the way is  drag xmind zen file and drop to blank space of mind map in `rich` mode
+3. fix some times can not add/remove free node bug
+
+This is a xmind zen [demo](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.8/note.taking.1.xmind)    
+
+----
+
+![note 12367133](https://user-images.githubusercontent.com/18719494/141953779-f7e1fdf2-8e0f-4ab0-b099-7d5bfb7a07f5.gif)  
+![note 12367133tt](https://user-images.githubusercontent.com/18719494/141953811-9657cf8d-e04e-4c7b-8499-154f9e3272d5.gif)
+
+
+### v1.1.7  
+**important**:  please update pc pdf js 
+
+[pc pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)  
+
+1.  fix `basic` mode can add free node bug  
+2.  fix export annotate pdf in pc version  
+
+### v1.1.6
 **important**
 > please update pc pdfjs plugin  ， mobile pdfjs plugin will update next version
 
