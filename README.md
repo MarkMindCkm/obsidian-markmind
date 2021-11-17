@@ -6,7 +6,7 @@
 This is not an open source project .  
 Web site : https://www.markmind.net
 
-### price
+### Price
 
 | free  | Catalyst |
 | -------------------- | ------------------------------- |
@@ -18,7 +18,7 @@ Web site : https://www.markmind.net
 |           |       [Buy](https://www.markmind.net)                                        |
 
 
-You can try it for 30 days free，and you can buy a active code in website , then input it in setting tab ,
+You can try it for 30 days free，and you can buy a active code in website , then input it in setting tab 
 
 
 ## Introduction
