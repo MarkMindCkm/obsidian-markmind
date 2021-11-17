@@ -140,6 +140,12 @@ The mindmap data will store to `json`.
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130028629-1a1e448d-32b9-4201-b152-1ad09439e18e.gif' width="800px">
 
+#### How to get markdown in `rich` mode ?
+You can find `Copy as markdown` menu in `more options`.
+
+<img src = 'https://user-images.githubusercontent.com/18719494/142220099-a69fa850-4ead-465a-98e5-f45611b48b55.gif' width='800px'>
+
+
 
 ## PDF annotate
 
