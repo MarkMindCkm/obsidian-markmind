@@ -6,6 +6,20 @@
 This is not an open source project .  
 Web site : https://www.markmind.net
 
+### price
+
+| free  | Catalyst |
+| -------------------- | ------------------------------- |
+|  `basic` mode of mindmap |  advanced features in  `rich` mode of mind map       |
+|  most features in `rich` mode of mindmap                                     |   pdf annotate                    |
+|    list mode         |        support development                                            |
+|    support mobile and pc         |       support mobile and pc                                           |
+|    $0         |      $12 （forever）                                          |
+|           |       [Buy](https://www.markmind.net)                                        |
+
+
+You can try it for 30 days free，and you can buy a active code in website , then input it in setting tab ,
+
 
 ## Introduction
 
