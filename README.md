@@ -258,7 +258,42 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.1.8
+## Change log  v1.1.9
+
+**Important :  ios pdfjs plugin update !**
+
+1. fix cannot use highlight text in ios system [ download ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.9/ios.pdfjs.zip)
+2. support parse code block in markdown file , you should open it in setting tab and restart obsidian
+<pre>
+
+``` mindmap
+
+# Mark mind for obsidian
+
+## Links
+- <https://github.com/MarkMindLtd/obsidian-markmind>
+- [GitHub](https://github.com/MarkMindLtd/obsidian-markmind)
+
+## Related
+- [coc-markmap](https://github.com/gera2ld/coc-markmap)
+- [gatsby-remark-markmap](https://github.com/gera2ld/gatsby-remark-markmap)
+
+## Features
+- links
+- **inline** ~~text~~ *styles*
+- multiline
+   text
+- `inline code`
+- Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+  
+```
+</pre>
+
+---
+
+![1234](https://user-images.githubusercontent.com/18719494/142712174-9ee6abc8-7aed-4159-940d-3dae6561e559.gif)
+
+### v1.1.8
 
 **important**:  please update pc pdf js  to v1.1.7
 
@@ -320,7 +355,7 @@ Please update pdfjs plugin to v1.1.1 version
 
 PC  : [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.6/pdfjs.zip)  
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
-iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.9/ios.pdfjs.zip)  
 
 1.  support add note to mind map node in rich mode , note support markdown  
 2. summary node support add child node  
