@@ -293,6 +293,10 @@ There are three ways to  relate mind map node and annotate
 
 ![1234](https://user-images.githubusercontent.com/18719494/142712174-9ee6abc8-7aed-4159-940d-3dae6561e559.gif)
 
+#### ipad annotate
+
+https://user-images.githubusercontent.com/18719494/142714629-29808aa0-4d5d-46c8-8bd4-037c28dc33ae.mp4
+
 ### v1.1.8
 
 **important**:  please update pc pdf js  to v1.1.7
