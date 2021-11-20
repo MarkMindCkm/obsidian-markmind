@@ -172,7 +172,7 @@ You can find `Copy as markdown` menu in `more options`.
 
 PC:  [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)  
 Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
-iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.1/ios.pdfjs.zip)  
+iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.9/ios.pdfjs.zip)
 
 **About iPhone/iPad pdfjs path**:
 for example (iPad), you create `plugin` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
