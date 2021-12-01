@@ -265,7 +265,7 @@ There are three ways to  relate mind map node and annotate
 
 
 **Important**  
-Please update pdfjs plugin , it's support epub file
+Please update pdfjs plugin ,  pc version  support epub file , mobile will support near future
 [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/pdfjs.zip)   
 [andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/andriod.pdfjs.zip)   
 [ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/ios.pdfjs.zip)   
