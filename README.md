@@ -258,7 +258,60 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.1.9
+## Change log  v1.2.0
+
+
+**Important**  
+Please update pdfjs plugin , it's support epub file
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/pdfjs.zip)   
+[andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/andriod.pdfjs.zip)   
+[ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/ios.pdfjs.zip)   
+
+----
+
+
+1. fix #87 
+2. support read and annotate epub file,this is beta function
+
+ add yaml to md 
+
+<pre>
+
+---
+
+annotate-target: test.epub
+annotate-type: epub
+
+---
+
+</pre>
+
+
+then you can find `annotate epub` in `more options`
+
+
+3. fix miss `$` when save data bug
+4. simplify set up mobile pdfjs plugin path
+
+      - download lastest pdfjs plugin ，unzip it
+      - in andriod , create a `andriod` folder then put `pdfjs` folder in it 
+      - in ios , create a `ios` folder then put `pdfjs` folder in it 
+      - open a mind map
+      - call up command board , then you can find a `set up mobile pdfjs plugin path` command , click it
+  
+
+
+----
+### epub  
+![test1](https://user-images.githubusercontent.com/18719494/144242980-afc1100c-c31e-4d80-9cc8-6eb46387ec6c.gif)
+
+### set up mobile pdf js plugin path
+
+https://user-images.githubusercontent.com/18719494/144244497-4dd9e79c-3b50-4974-81c8-ea1a7ef92310.mp4
+
+
+
+### v1.1.9
 
 **Important :  ios pdfjs plugin update !**
 
