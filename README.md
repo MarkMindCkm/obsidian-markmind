@@ -170,27 +170,30 @@ You can find `Copy as markdown` menu in `more options`.
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-PC:  [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.7/pdfjs.zip)  
-Andriod [Andriod pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.0/mobile.pdfjs.zip)    
-iPhone/iPad : [iPhone/iPad pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.1.9/ios.pdfjs.zip)
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/pdfjs.zip)   
+[andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/andriod.pdfjs.zip)   
+[ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/ios.pdfjs.zip)   
+
 
 **About iPhone/iPad pdfjs path**:
-for example (iPad), you create `plugin` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
-`/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/plugin/pdfjs`
+for example (iPad), you create `ios` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
+`/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/ios/pdfjs`
 
 `FACF6387-DAA2-45B3-8F52-3536E1EC29A1`  are different on each device 
 
 **About andriod pdfjs path**,for example,like this
-`/storage/emulated/0/Documents/obsidian/obsidian/plugin/pdfjs`
+`/storage/emulated/0/Documents/obsidian/obsidian/andriod/pdfjs`
 
 **About PC pdfjs path**,like this
 
 `D:plugin/pdfjs`
 
 
-#### How to get your vault path?
-You can use `ctrl + p` , then you can find `get base path of vault` command  
-If you use ios , you can try `filza` app , it can find this path
+#### How to set up your pdfjs plugin path?
+In pc , you can open setting tab and input  absolute path to  `pdfjs plugin` 
+In mobile , you can open command board , then you an find a `set up mobile pdf js plugin path` command ,then click it   
+ - In andriod , the pdfjs plugin is in `andriod/pdfjs` folder as default in your vault
+ - In Ios , the pdfjs plugin is in `ios/pdfjs` folder as default in your vault
 
 
 ### Markdown  
