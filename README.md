@@ -191,7 +191,7 @@ for example (iPad), you create `ios` folder in your vault , then put `pdfjs plug
 
 #### How to set up your pdfjs plugin path?
 In pc , you can open setting tab and input  absolute path to  `pdfjs plugin`   
-In mobile , you can open command board , then you an find a `set up mobile pdf js plugin path` command ,then click it   
+In mobile , you can open command board , then you can find a `set up mobile pdf js plugin path` command ,then click it   
  - In andriod , the pdfjs plugin is in `andriod/pdfjs` folder as default in your vault
  - In Ios , the pdfjs plugin is in `ios/pdfjs` folder as default in your vault
 
