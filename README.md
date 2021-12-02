@@ -192,8 +192,15 @@ for example (iPad), you create `ios` folder in your vault , then put `pdfjs plug
 #### How to set up your pdfjs plugin path?
 In pc , you can open setting tab and input  absolute path to  `pdfjs plugin`   
 In mobile , you can open command board , then you can find a `set up mobile pdf js plugin path` command ,then click it   
- - In andriod , the pdfjs plugin is in `andriod/pdfjs` folder as default in your vault
- - In Ios , the pdfjs plugin is in `ios/pdfjs` folder as default in your vault
+
+- download lastest pdfjs plugin ，unzip it  
+- in andriod , create a `andriod` folder then put `pdfjs` folder in it  
+- in ios , create a `ios` folder then put `pdfjs` folder in it  
+- open a mind map  
+- call up command board , then you can find a set up mobile pdfjs plugin path command , click it  
+- restart obsidian and check path in obsidian markmind setting tab    
+
+The pdf js path need set separately and if it is not work above in ios , you can try `filza` app , it can find obsidian path
 
 
 ### Markdown  
@@ -270,14 +277,14 @@ fix set up pdf js plugin bug
 
 ***How to set up pdf js plugin ***
 - download lastest pdfjs plugin ，unzip it  
-- in andriod , create a andriod folder then put pdfjs folder in it  
-- in ios , create a ios folder then put pdfjs folder in it  
+- in andriod , create a `andriod` folder then put `pdfjs` folder in it  
+- in ios , create a `ios` folder then put `pdfjs` folder in it  
 - open a mind map  
 - call up command board , then you can find a set up mobile pdfjs plugin path command , click it  
 - restart obsidian and check path in obsidian markmind setting tab    
  
 
-The pdf js path need set separately and if it is not work above in ios , you can try filza app , it can find obsidian path
+The pdf js path need set separately and if it is not work above in ios , you can try `filza` app , it can find obsidian path
 
 
 ### v1.2.0
