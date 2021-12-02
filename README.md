@@ -261,7 +261,26 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.0
+## Change log  v1.2.1
+
+**Nitice:**   
+Please update pdfjs plugin to v1.2.0 , the pc support epub file , the detail is there [v1.2.0](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.2.0)  
+
+fix set up pdf js plugin bug  
+
+***How to set up pdf js plugin ***
+- download lastest pdfjs plugin ，unzip it  
+- in andriod , create a andriod folder then put pdfjs folder in it  
+- in ios , create a ios folder then put pdfjs folder in it  
+- open a mind map  
+- call up command board , then you can find a set up mobile pdfjs plugin path command , click it  
+- restart obsidian and check path in obsidian markmind setting tab    
+ 
+
+The pdf js path need set separately and if it is not work above in ios , you can try filza app , it can find obsidian path
+
+
+### v1.2.0
 
 
 **Important**  
