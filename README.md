@@ -270,7 +270,15 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.1
+## Change log  v1.2.2
+
+1. fix #108
+2. fix #103
+3. add `copy and paste` command (ctrl + p ) , support copy and paste node on mind maps
+4. Optimize input, select the node, press spacebar to edit the node in append mode, and press other keys to edit in overwrite mode
+
+
+### v1.2.1
 
 **Nitice:**   
 Please update pdfjs plugin to v1.2.0 , the pc support epub file , the detail is there [v1.2.0](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.2.0)  
