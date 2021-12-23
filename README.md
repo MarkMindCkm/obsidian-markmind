@@ -270,7 +270,38 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.2
+## Change log  v1.2.6
+
+1. add more options of canvas size in setting tab
+2. optimize the logic of the pop-up node setting box
+3. support export mindmap to html , use ctrl + p , then you can find export to html command , notice :
+  - not support blank link
+  - not suport ![[svg/pdf/mp4]] , only support ![[png/jpg]] in node , image in mindmap must be local
+  - support export mathematical formul
+  - not support mobile
+  
+---  
+
+![1234](https://user-images.githubusercontent.com/18719494/147195606-3a270e5e-2628-4322-bd87-9ef6d1004b66.gif)
+
+
+### 1.2.5
+
+- Optimize the interaction of node setting box
+- ctrl/cmd + mouse click to select nodes , not support right click
+- add set up mac pdf js plugin path
+- notice : enhancing mindmap support export mindmap to image , it will be transplanted soon
+
+### 1.2.4
+
+- Right click to select nodes and left click to move the mind map  
+- In rich mode , support set up node background/stroke/text color/text size，if you want to change colors of node setup board , you can input setup board color in setting tab please restart obsidian
+
+
+### 1.2.3
+fix v1.2.2 tab/enter bug
+
+### v1.2.2
 
 1. fix #108
 2. fix #103
