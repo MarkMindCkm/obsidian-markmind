@@ -275,10 +275,13 @@ There are three ways to  relate mind map node and annotate
 1. add more options of canvas size in setting tab
 2. optimize the logic of the pop-up node setting box
 3. support export mindmap to html , use ctrl + p , then you can find export to html command , notice :
-  - not support blank link
-  - not suport ![[svg/pdf/mp4]] , only support ![[png/jpg]] in node , image in mindmap must be local
-  - support export mathematical formul
-  - not support mobile
+   - not support blank link
+   - not suport ![[svg/pdf/mp4]] , only support ![[png/jpg]] in node , image in mindmap must be local
+   - support export mathematical formul
+   - not support mobile
+   - If the mind map is too large, it cannot be exported  , max export size is 16384 * 16384 (px)
+
+
   
 ---  
 
