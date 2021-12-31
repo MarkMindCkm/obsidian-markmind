@@ -270,7 +270,24 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.6
+## Change log  v1.2.7
+
+1. fix #138 
+2. fix #130 
+3. fix #129 , support parse  ![[mindmap md name]]  to mindmap in mindmap node
+4. fix #124 , support parse ![[mindmap md name]] to mindmap in md file
+
+
+---
+
+![test](https://user-images.githubusercontent.com/18719494/147801351-23842bd9-af20-4589-9459-774618bd5dac.gif)
+
+
+![test1](https://user-images.githubusercontent.com/18719494/147801356-3edca7dc-d0ea-4213-9974-a37f71aa438c.gif)
+
+![test2](https://user-images.githubusercontent.com/18719494/147801360-ed8aba1d-3dcf-4b97-a7a0-6dfc41597cd1.gif)
+
+### v1.2.6
 
 1. add more options of canvas size in setting tab
 2. optimize the logic of the pop-up node setting box
