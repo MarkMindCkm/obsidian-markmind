@@ -161,6 +161,8 @@ You can find `Copy as markdown` menu in `more options`.
 
 <img src = 'https://user-images.githubusercontent.com/18719494/142220099-a69fa850-4ead-465a-98e5-f45611b48b55.gif' width='800px'>
 
+#### How to export mindmap to image?
+Use `ctrl + p` , execute `export to html` command 
 
 
 ## PDF annotate
