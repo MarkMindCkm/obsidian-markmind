@@ -270,7 +270,26 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.7
+## Change log  v1.2.9
+
+1. add a layout `vertical time` , the short cut is `ctrl + k`
+2. add a layout `fish right` , the short cut is `ctrl + q`
+3. add a layout `fish left`, the short cut is `ctrl + t`
+
+Previous projects have been basically completed , this is plan for this year  https://github.com/MarkMindCkm/obsidian-markmind/projects  
+
+---
+
+![fish1](https://user-images.githubusercontent.com/18719494/148394155-8fb4007e-6061-4ea3-8693-d27bbc036f33.gif)  
+
+
+
+### v1.2.8
+
+fix parse ![[mindmap md name]] bug when node has image
+fix style of node
+
+### v1.2.7
 
 1. fix #138 
 2. fix #130 
