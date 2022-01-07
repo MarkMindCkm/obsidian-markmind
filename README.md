@@ -149,7 +149,7 @@ The mindmap data will store to `json`.
 | Tab node                                | Up/down/left/right           |
 | Zoom in/out                             | Ctrl/Cmd + mouse wheel       |
 | Mind map to center                      | Ctrl/Cmd + E                 |
-| Change mindmap layout                   | select node,Ctrl/Cmd + U / D / L / R / M / J |
+| Change mindmap layout                   | select node,Ctrl/Cmd + U / D / L / R / M / J / K / T / Q |
 | delete summary / boundary / relate link | Delete/Backspace             |
 
 ---
