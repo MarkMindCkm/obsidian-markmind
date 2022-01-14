@@ -272,7 +272,36 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.2.9
+## Change log  v1.3.1
+
+Making table in markdown is very troublesome, so `table` mode is added to `basic` mode for make table visually  
+- you can add `display-mode: table` in `basic` mode yaml  
+- or you can find `open as table` in `more options`
+- support get table html code , you can find `get table html` in `more options` when in `table` mode
+- support `enter/tab` short cut ,  support edit text by dblclick
+- not support drag and drop , you can change node position in `mindmap` mode
+
+<pre>
+---
+mindmap-plugin: basic
+display-mode: table
+---
+</pre> 
+
+![table](https://user-images.githubusercontent.com/18719494/148937281-3ff868b3-ccb6-404e-8f37-14b8e153feb5.gif)
+
+
+![table1](https://user-images.githubusercontent.com/18719494/148937290-55fa7630-65d3-4b62-9e24-978f0de4c180.gif)
+
+
+### 1.3.0
+
+fix #152 
+fix #150 
+fix #149 
+
+
+### v1.2.9
 
 1. add a layout `vertical time` , the short cut is `ctrl + k`
 2. add a layout `fish right` , the short cut is `ctrl + q`
