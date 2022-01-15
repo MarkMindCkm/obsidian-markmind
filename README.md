@@ -272,7 +272,34 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.1
+## Change log  v1.3.2
+
+### update
+1. fix parse ![[mindmap md]] in `table` mode
+2. fix parse ![[ table mode mindmap md]] to real table in node of mindmap/markdown file
+3. fix export table mode mindmap to html
+4. fix #157 
+5. support create free node , the text is `![[ file name]]` when drag file of vault  to `rich` mode,the extension support md/png/gif/jpg
+6, `get markdown table` added in `options` when in table mode
+
+### Internal test function , allow only purchased users to use   
+please update pc pdfjs [download pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-pdfjs.zip)  and manual  download obsidian markmind [ download ob markmind ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-obsidian-markmind.zip)   
+pc pdfjs support import existing PDF highlights , #99  
+
+---
+
+![11](https://user-images.githubusercontent.com/18719494/149620970-f3556f46-33bf-434f-b99e-3d6ff72bd2d6.gif)
+
+![12](https://user-images.githubusercontent.com/18719494/149620976-2bc3702d-2f32-4f7f-a7a2-ee57d832fb8f.gif)
+
+---
+
+### Internal test function
+
+![import](https://user-images.githubusercontent.com/18719494/149621321-45664041-e40f-4599-a25e-bdc39e977a28.gif)
+
+
+### 
 
 Making table in markdown is very troublesome, so `table` mode is added to `basic` mode for make table visually  
 - you can add `display-mode: table` in `basic` mode yaml  
