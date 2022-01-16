@@ -284,7 +284,8 @@ There are three ways to  relate mind map node and annotate
 
 ### Internal test function , allow only purchased users to use   
 please update pc pdfjs [download internal pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-pdfjs.zip)  and manual  download obsidian markmind [ download internal ob markmind ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-obsidian-markmind.zip)   
-pc pdfjs support import existing PDF highlights , #99  
+pc pdfjs support `import existing PDF highlights` (in more options) , #99  
+
 
 ---
 
