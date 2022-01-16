@@ -280,7 +280,7 @@ There are three ways to  relate mind map node and annotate
 3. fix export table mode mindmap to html
 4. fix #157 
 5. support create free node , the text is `![[ file name]]` when drag file of vault  to `rich` mode,the extension support md/png/gif/jpg
-6, `get markdown table` added in `options` when in table mode
+6. `get markdown table` added in `options` when in table mode
 
 ### Internal test function , allow only purchased users to use   
 please update pc pdfjs [download internal pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-pdfjs.zip)  and manual  download obsidian markmind [ download internal ob markmind ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-obsidian-markmind.zip)   
