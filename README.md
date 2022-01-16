@@ -300,7 +300,7 @@ pc pdfjs support `import existing PDF highlights` (in more options) , #99
 ![import](https://user-images.githubusercontent.com/18719494/149621321-45664041-e40f-4599-a25e-bdc39e977a28.gif)
 
 
-### 
+### 1.3.1
 
 Making table in markdown is very troublesome, so `table` mode is added to `basic` mode for make table visually  
 - you can add `display-mode: table` in `basic` mode yaml  
