@@ -168,8 +168,8 @@ Use `ctrl + p` , execute `export to html` command
 ## PDF annotate
 
 - highlight text
-- rectangular annotate
-- relate  mind map node and annotate
+- area annotate
+- relate mind map node and annotate
 
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
