@@ -272,7 +272,33 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.2
+## Change log  v1.3.3
+notice : v1.3.2 pc pdf js plugin has update ,  [pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-pdfjs.zip) 
+
+
+1. support change relate link of node , now support line/polyline/bessel curve
+2. add a  theme , support for white board
+
+<pre>
+     <code>
+---
+
+mindmap-plugin: rich
+mindmap-theme: whiteboard
+
+---
+     </code>
+</pre>
+
+![11](https://user-images.githubusercontent.com/18719494/150154942-6a62497b-2264-4435-9d05-4cd421455b76.gif)
+
+![12](https://user-images.githubusercontent.com/18719494/150155333-5e3b06c6-5620-4121-9adb-c3f976774d84.gif)
+
+
+
+
+
+### 1.3.2
 
 ### update
 1. fix parse ![[mindmap md]] in `table` mode
