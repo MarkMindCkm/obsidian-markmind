@@ -103,6 +103,22 @@ display-mode: outline
 ![outline](https://user-images.githubusercontent.com/18719494/138630597-fc2396d1-c818-43dc-83eb-fa638d8a0028.gif)
 
 
+### table
+
+You can add yaml to active table mode:
+
+``` 
+---
+
+mindmap-plugin: basic
+display-mode: table
+
+---
+
+```
+
+![table](https://user-images.githubusercontent.com/18719494/150626028-8d8733d5-8cd2-4eaf-b369-73ebbbcc5244.gif)
+
 
 ## In `rich` mode
 
