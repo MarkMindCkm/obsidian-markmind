@@ -288,7 +288,28 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.4
+## Change log  v1.3.5
+1. fix #159
+2. support create rich mode from basic mode , you can use ctrl + p , then you can find `change basic to rich mode` command
+3. `import highlight annotations from pdf `  this function is release , you can find a menu in 'more options' when open a pdf 
+4. support export pdf annotations as a format , you can find a menu in `more options` , you can setup format in setting tab , the default format is
+```
+Page:{{page}}
+Text:{{highlightText}} 
+Comment:{{comment}}
+^{{id}}
+```
+
+![123456](https://user-images.githubusercontent.com/18719494/153592129-842da678-cd8d-46fe-8df6-8c7238d0f583.gif)
+
+![1234567](https://user-images.githubusercontent.com/18719494/153592138-c4899a71-cc4d-4f68-9707-fdddd4a228f3.gif)
+
+![12345678](https://user-images.githubusercontent.com/18719494/153593116-5a725dfc-70f0-4a17-a9ad-3c2bccb70f99.gif)
+
+
+
+
+### 1.3.4
 
 1. reconstruct PDF annotation , this is only for pc version  [ pdfjs plugin ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.4/pdfjs.zip)  
 2. optimize some mind mapping functions  
@@ -300,7 +321,7 @@ There are three ways to  relate mind map node and annotate
 ![pdftest](https://user-images.githubusercontent.com/18719494/152311838-05ffdbb4-3040-4a82-afd5-f0165bb016df.gif)
 
 
-### v1.3.
+### v1.3.3
 notice : v1.3.2 pc pdf js plugin has update ,  [pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.2/internal-pdfjs.zip) 
 
 
