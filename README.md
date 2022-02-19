@@ -191,8 +191,8 @@ Use `ctrl + p` , execute `export to html` command
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
 [PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.4/pdfjs.zip)   
-[andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/andriod.pdfjs.zip)   
-[ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.2.0/ios.pdfjs.zip)   
+[andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
+[ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 
 
 **About iPhone/iPad pdfjs path**:
@@ -291,7 +291,7 @@ There are three ways to  relate mind map node and annotate
 ## Change log  v1.3.6
 1. fix #196 
 2. fix #184 
-3. mobile pdfjs plugin is release , please download [monile pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
+3. mobile pdfjs plugin is release , please download [mobile pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
 
 https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-8d56-b895bdad6399.mp4
 
