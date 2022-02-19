@@ -293,6 +293,8 @@ There are three ways to  relate mind map node and annotate
 2. fix #184 
 3. mobile pdfjs plugin is release , please download [mobile pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
 
+notice: long touch to select text
+
 https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-8d56-b895bdad6399.mp4
 
 ###1.3.5
