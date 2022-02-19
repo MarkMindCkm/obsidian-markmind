@@ -288,7 +288,14 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.5
+## Change log  v1.3.6
+1. fix #196 
+2. fix #184 
+3. mobile pdfjs plugin is release , please download [monile pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
+
+https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-8d56-b895bdad6399.mp4
+
+###1.3.5
 1. fix #159
 2. support create rich mode from basic mode , you can use ctrl + p , then you can find `change basic to rich mode` command
 3. `import highlight annotations from pdf `  this function is release , you can find a menu in 'more options' when open a pdf 
