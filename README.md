@@ -297,7 +297,7 @@ notice: long touch to select text
 
 https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-8d56-b895bdad6399.mp4
 
-###1.3.5
+### 1.3.5
 1. fix #159
 2. support create rich mode from basic mode , you can use ctrl + p , then you can find `change basic to rich mode` command
 3. `import highlight annotations from pdf `  this function is release , you can find a menu in 'more options' when open a pdf 
