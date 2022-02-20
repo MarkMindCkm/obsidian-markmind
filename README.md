@@ -296,7 +296,7 @@ There are three ways to  relate mind map node and annotate
   - fix  #197 
     - In rare cases, due to the problem of PDF format, there will be problems in the text selection of the new version. You can use the old version to solve them
     - Generally, please use the new version ,better experience with the new version
-3.  v1.3.6 has update mobile pdfjs plugin  https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.
+3.  v1.3.6 has update mobile pdfjs plugin  https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.6
 
 ----
 
