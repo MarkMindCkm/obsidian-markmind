@@ -288,7 +288,22 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.6
+## Change log  v1.3.7
+1. add  command to toggle version of pc pdfjs plugin in command board （ctrl + p）
+2. please update PC pdfjs plugin   [pc pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.7/pdfjs.zip)
+  - support old and new version  （ #197 ）
+  - support  highlight text by use shortcut key ( alt + y/r/g/p/b )
+  - fix  #197 
+    - In rare cases, due to the problem of PDF format, there will be problems in the text selection of the new version. You can use the old version to solve them
+    - Generally, please use the new version ,better experience with the new version
+3.  v1.3.6 has update mobile pdfjs plugin  https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.
+
+----
+
+![pc pdfjs](https://user-images.githubusercontent.com/18719494/154829513-224a003d-5892-49b3-ba02-f39e72557ce6.gif)
+
+
+### v1.3.6
 1. fix #196 
 2. fix #184 
 3. mobile pdfjs plugin is release , please download [mobile pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
