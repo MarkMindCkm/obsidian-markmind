@@ -292,7 +292,7 @@ There are three ways to  relate mind map node and annotate
 
 1. support search mindmap node ， add a menu `toggle search box` in `more options`
 2. fix #203 ,  support only copy  pdf  annotate text 
-3. support micro adjustment of the height of the pdf  annptate. you can add an upward or downward adjustment distance in the setting tab
+3. support micro adjustment of the height of the pdf  annotate. you can add an upward or downward adjustment distance in the setting tab
 4. add a short cut `alt + i` to `toggle create rect annotate status`
 5. fix #131 , support set up folder path  for image of rect annotate in yaml , this is a relative path to a folder in your vault , please update [pc pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.8/pdfjs.zip)
 
