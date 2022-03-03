@@ -288,7 +288,36 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.7
+## Change log  v1.3.8
+
+1. support search mindmap node ， add a menu `toggle search box` in `more options`
+2. fix #203 ,  support only copy  pdf  annotate text 
+3. support micro adjustment of the height of the pdf  annptate. you can add an upward or downward adjustment distance in the setting tab
+4. add a short cut `alt + i` to `toggle create rect annotate status`
+5. fix #131 , support set up folder path  for image of rect annotate in yaml , this is a relative path to a folder in your vault , please update [pc pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.8/pdfjs.zip)
+
+```
+---
+annotate-type: pdf
+annotate-target: pdf/test.pdf
+annotate-image-target: test/test
+---
+```
+
+#### copy text
+![copyText](https://user-images.githubusercontent.com/18719494/156492427-e7a046e6-4782-4312-a03b-1e3ec98262a2.gif)
+
+#### add folder path for image of rect annotate
+
+![imageFolder](https://user-images.githubusercontent.com/18719494/156492495-6ab436cb-4698-495c-9650-ee53622001c5.gif)
+
+#### adjust height of annotate
+
+![adjustHeight](https://user-images.githubusercontent.com/18719494/156492522-322cdeb5-6a41-48ed-84c4-9ac9455efcf0.gif)
+
+
+
+### v1.3.7
 1. add  command to toggle version of pc pdfjs plugin in command board （ctrl + p）
 2. please update PC pdfjs plugin   [pc pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.7/pdfjs.zip)
   - support old and new version  （ #197 ）
