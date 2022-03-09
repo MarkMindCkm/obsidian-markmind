@@ -308,7 +308,7 @@ annotate-image-target: test/test
 
 ### mind map
 1. add scale button in mind map
-2. fix #91 ,  you can add `color` variable in setting tab  when export pdf annotations
+2. fix #226 ,  you can add `color` variable in setting tab  when export pdf annotations
 
 ```
 Page:{{page}}
