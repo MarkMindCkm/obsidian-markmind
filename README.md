@@ -190,7 +190,7 @@ Use `ctrl + p` , execute `export to html` command
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.7/pdfjs.zip)   
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.9/pdfjs.zip)   
 [andrios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 [ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 
@@ -288,7 +288,40 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.8
+## Change log  v1.3.9
+
+**notice** : pc pdfjs plugin need update  [pc pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.9/pdfjs.zip)
+
+### pdf js plugin
+1. add a short cut `ctrl + c`  to select text
+2. fix cannot click `copy btn` bug when click a annotate
+3. fix loss `annotate-image-target` bug when save pdf annotations
+
+```
+---
+annotate-type: pdf
+annotate-target: pdf/test.pdf
+annotate-image-target: test/test
+---
+
+```
+
+### mind map
+1. add scale button in mind map
+2. fix #91 ,  you can add `color` variable in setting tab  when export pdf annotations
+
+```
+Page:{{page}}
+<span style="color:{{color}}">■</span>:{{highlightText}} 
+Comment:{{comment}}
+^{{id}}
+```
+
+![scale](https://user-images.githubusercontent.com/18719494/157392342-2372b4bd-8df9-4b84-9c18-6d1289cbea9b.gif)
+
+![color1](https://user-images.githubusercontent.com/18719494/157392356-e1d97963-2665-43e7-b048-681d0a863429.gif)
+
+### 
 
 1. support search mindmap node ， add a menu `toggle search box` in `more options`
 2. fix #203 ,  support only copy  pdf  annotate text 
