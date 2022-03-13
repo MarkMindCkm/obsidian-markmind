@@ -288,7 +288,43 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.3.9
+## Change log  v1.4.0
+
+notice : v1.3.9 has update pdfjs plugin .
+
+1. fix #231 ， you can add `link`  variable in setting tab when export pdf annotations
+
+```
+Page:{{page}}
+<span style="color:{{color}}">■</span>:{{highlightText}} 
+Comment:{{comment}}
+[📌]({{link}})
+^{{id}}
+```
+
+2. fix #174 , it can work directly with Obsidian Extended Table plugins https://github.com/aidenlx/table-extended ， when use `table` mode , you can find a menu `get markdown of this table` , click it ,then copy it to a md file , open table-extended plugin 
+
+```
+---
+mindmap-plugin: basic
+display-mode: table
+---
+```
+
+3. list mode support parse `![[mind map md]]` to a real mind map
+4. fix basic mode mind map parse `![[mind map md]]` bug
+
+##### table mode width table extended plugin
+
+![table](https://user-images.githubusercontent.com/18719494/158053432-d1956d65-a6e4-40fb-8003-0e757fe3b30d.gif)
+
+##### export pdf annotations
+
+![highlight](https://user-images.githubusercontent.com/18719494/158053715-7c72d63c-93c0-4a53-9d2e-0014fb2c8086.gif)
+
+
+
+### v1.3.9
 
 **notice** : pc pdfjs plugin need update  [pc pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.9/pdfjs.zip)
 
