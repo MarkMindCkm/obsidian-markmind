@@ -290,7 +290,7 @@ There are three ways to  relate mind map node and annotate
 
 ## Change log  v1.4.0
 
-notice : v1.3.9 has update pdfjs plugin .
+notice : v1.3.9 has update pdfjs plugin . [See detail](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.9)
 
 1. fix #231 ， you can add `link`  variable in setting tab when export pdf annotations
 
