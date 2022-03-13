@@ -314,7 +314,7 @@ display-mode: table
 3. list mode support parse `![[mind map md]]` to a real mind map
 4. fix basic mode mind map parse `![[mind map md]]` bug
 
-##### table mode width table extended plugin
+##### table mode with table extended plugin
 
 ![table](https://user-images.githubusercontent.com/18719494/158053432-d1956d65-a6e4-40fb-8003-0e757fe3b30d.gif)
 
