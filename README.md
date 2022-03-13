@@ -302,7 +302,7 @@ Comment:{{comment}}
 ^{{id}}
 ```
 
-2. fix #174 , it can work directly with Obsidian Extended Table plugins https://github.com/aidenlx/table-extended ， when use `table` mode , you can find a menu `get markdown of this table` , click it ,then copy it to a md file , open table-extended plugin 
+2. fix #174 , it can work directly with Obsidian Extended Table plugins https://github.com/aidenlx/table-extended ， when use `table` mode , you can find a menu `get markdown of this table` , click it ,then copy it to a md file , open table-extended plugin ,notice : not support wrap in table
 
 ```
 ---
