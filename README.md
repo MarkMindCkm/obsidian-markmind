@@ -288,7 +288,17 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.0
+## Change log  v1.4.1
+1. fix #237 
+2. fix #236 
+3. fix mindmap scale bug
+4. support add callout in `rich` mode ， support mobile and pc
+
+---
+
+![callout](https://user-images.githubusercontent.com/18719494/159688695-8d6fee36-29cb-4171-9b22-ae353a7e32fe.gif)
+
+### v1.4.0
 
 notice : v1.3.9 has update pdfjs plugin . [See detail](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.9)
 
