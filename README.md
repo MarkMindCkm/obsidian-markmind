@@ -288,7 +288,85 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.1
+## Change log  v1.4.2
+
+### PDF annotate tool
+1. support  annotate  `http(s)` , you should ensure obsidian can access to PDF file , for example
+
+```
+---
+annotate-type: pdf
+annotate-target: https://mozilla.github.io/pdf.js/legacy/web/compressed.tracemonkey-pldi-09.pdf
+---
+
+```
+2.  fix #253 , when export highlight of pdf , only  keep color value , you can setup export pdf format in setting tab to this , then it can be use with admonition
+```
+Page:{{page}}
+<span style="color:rgb({{color}})">■</span>:{{highlightText}}
+Comment:{{comment}}
+[📌]({{link}})
+^{{id}}
+```
+### mindmap feature
+1. support setup layout in yaml  of `basic` mode , for example
+
+```
+---
+mindmap-plugin: basic
+mindmap-layout: fish
+mindmap-layout-direct: right
+---
+```
+
+notice : **
+keep setup value  `mindmap-layout` and `mindmap-layout-direct` at the same time**
+
+now support layout and direct
+|layout|direct|
+|---|---|
+| mindmap | right/left/mindmap|
+|fish| right/left|
+
+2. support create hand drawn mode from `basic` mode , and support export to image but not support edit mode in hand drawn mode ,   this is a testing feature  and this feature will apply to `rich` mode in future 
+
+the default hand draw font is this in `style.css` , load font need network
+
+``` css
+@font-face{
+  font-family: 'myFont'; 
+  src:url('http://cdn.ghost-jack.top/chinese.ttf');
+}
+.mm-handdraw-theme{
+  font-family:'myFont';
+}
+```
+
+you can change font to your own font  in `style.css` , for example :  
+(use `app://local/absolute font path`  to load your local font , not need network)
+
+``` css
+
+@font-face{
+  font-family: 'testFont'; 
+  src:url('app://local/D:font/test.ttf');
+}
+.mm-handdraw-theme{
+  font-family:'testFont';
+}
+
+``` 
+
+---
+![handdraw1](https://user-images.githubusercontent.com/18719494/161531764-31ec36cf-e102-45f9-adf2-7c93240ab38c.gif)
+
+
+![下载 (1)](https://user-images.githubusercontent.com/18719494/161531939-b3c997e3-54ed-4d70-98fa-b6e00307bc93.png)
+
+---
+
+### v1.4.1
+
 1. fix #237 
 2. fix #236 
 3. fix mindmap scale bug
