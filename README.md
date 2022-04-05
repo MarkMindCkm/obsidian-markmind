@@ -238,7 +238,7 @@ Then you can find menu `annotate pdf` in `more options`;
 
 ### About screenshot folder of rect annotations
 
-1. you can set up folder path ( this is a relative path , pointer to your folder of your vault )  to save  screenshot folder of rect annotations in setting tab
+1. you can set up folder path ( this is a relative path , pointer to  folder of your vault )  to save  screenshot folder of rect annotations in setting tab
 2. or you can add folder path in yaml
 
 ```
