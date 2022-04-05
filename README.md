@@ -249,6 +249,7 @@ annotate-type: pdf
 annotate-image-target: assets/image
 
 ---
+```
 
 ### short cut of pdf annoate
 
