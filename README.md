@@ -236,6 +236,20 @@ annotate-type: pdf
 ```
 Then you can find menu `annotate pdf` in `more options`;
 
+### About screenshot folder of rect annotations
+
+1. you can set up folder path ( this is a relative path , pointer to your folder of your vault )  to save  screenshot folder of rect annotations in setting tab
+2. or you can add folder path in yaml
+
+```
+---
+
+annotate-target: test/test.pdf
+annotate-type: pdf
+annotate-image-target: assets/image
+
+---
+
 ### short cut of pdf annoate
 
 | Features             | Short Cut                       |
@@ -279,6 +293,11 @@ There are three ways to  relate mind map node and annotate
 
 -	you can use `[[${md name}#${block reference}]]` to associate quote block with a block reference.
 -	An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight. If the file is already open in a pane, then the link will cause the existing pane to scroll instead.
+
+### How to import pdf highlight annotations?
+
+[see it](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.5)
+
 ### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
