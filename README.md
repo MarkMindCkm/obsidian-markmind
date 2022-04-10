@@ -255,12 +255,12 @@ annotate-image-target: assets/image
 
 | Features             | Short Cut                       |
 | -------------------- | ------------------------------- |
-|  Highlight Yellow    | ALT + Y                          |
-| Highlight Green                | ALT + G                            |
-|  Highlight Blue             | ALT + B                       |
-|  Highlight Pink         | ALT + P |
-| Highlight Red            |ALT + R                     |
-|Delete annotate  |    ALT + Delete/Backspace             |
+|  Highlight Yellow    | CTRL/CMD/ALT + Y                          |
+| Highlight Green                |  CTRL/CMD/ALT + G                            |
+|  Highlight Blue             |  CTRL/CMD/ALT + B                       |
+|  Highlight Pink         |  CTRL/CMD/ALT + P |
+| Highlight Red            | CTRL/CMD/ALT + R                     |
+|Delete annotate  |     CTRL/CMD/ALT + Delete/Backspace             |
 
 ### Mind Map and pdf annotate 
 
