@@ -308,7 +308,35 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.2
+## Change log  v1.4.3
+
+### mindmap
+1. fix #268 , fix bug of `fish` layout in `rich` mode
+2. node support parse callout of obsidian in `rich` mode
+
+### pdf annotator
+> please update [ pc pdfjs ](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.3/pc.pdfjs.zip)
+
+ the short cut change to this ( Mac  can use this short cut)
+
+| Features             | Short Cut                       |
+| -------------------- | ------------------------------- |
+|  Highlight Yellow    | CTRL/CMD/ALT + Y                          |
+| Highlight Green                |  CTRL/CMD/ALT + G                            |
+|  Highlight Blue             |  CTRL/CMD/ALT + B                       |
+|  Highlight Pink         |  CTRL/CMD/ALT + P |
+| Highlight Red            | CTRL/CMD/ALT + R                     |
+|Delete annotate  |     CTRL/CMD/ALT + Delete/Backspace             |
+
+-----
+### Parse callout of obsidian
+
+![callout](https://user-images.githubusercontent.com/18719494/162611444-eb67ab20-01cf-4da1-b19f-126a1c2808b9.gif)
+
+
+
+
+### v1.4.2
 
 ### PDF annotate tool
 1. support  annotate  `http(s)` , you should ensure obsidian can access to PDF file , for example
