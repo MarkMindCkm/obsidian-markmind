@@ -329,7 +329,7 @@ There are three ways to  relate mind map node and annotate
 |Delete annotate  |     CTRL/CMD/ALT + Delete/Backspace             |
 
 -----
-### Parse callout of obsidian
+### Node support parse callout of obsidian in rich mode
 
 ![callout](https://user-images.githubusercontent.com/18719494/162611444-eb67ab20-01cf-4da1-b19f-126a1c2808b9.gif)
 
