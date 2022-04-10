@@ -190,7 +190,7 @@ Use `ctrl + p` , execute `export to html` command
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.9/pdfjs.zip)   
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.3/pc.pdfjs.zip)   
 [andriod pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 [ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 
