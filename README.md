@@ -308,7 +308,16 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.3
+## Change log  v1.4.4
+
+1. fix #280
+2. fix parse obsidian callout bug
+3. tip
+   -  Set  color group on the settings tab to define the color of the node line , the value is like : `red,orange,yellow,green,blue,#ccc,rgb(10,10,10)`
+   -  Set  node color group to define  board color when click node 
+
+
+### v1.4.3
 
 ### mindmap
 1. fix #268 , fix bug of `fish` layout in `rich` mode
