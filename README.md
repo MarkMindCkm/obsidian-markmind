@@ -195,6 +195,11 @@ Use `ctrl + p` , execute `export to html` command
 [ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 
 
+#### Please ensure pdfjs folder have these folders
+
+![folder](https://user-images.githubusercontent.com/18719494/163680014-432c40b6-899d-43dd-9547-48eb9577974f.gif)
+
+
 **About iPhone/iPad pdfjs path**:
 for example (iPad), you create `ios` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
 `/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/ios/pdfjs`
