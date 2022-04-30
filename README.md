@@ -190,7 +190,7 @@ Use `ctrl + p` , execute `export to html` command
 ### How to use pdf annotate
 > You need download pdf js plugin ,Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
 
-[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.3/pc.pdfjs.zip)   
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/pc.pdfjs.zip)   
 [andriod pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 [ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
 
@@ -313,7 +313,20 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.4
+## Change log  v1.4.5
+1. Support  auto add to selected node or root of mind map  when annotate pdf in pc  , please update for this feature [pc pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/pc.pdfjs.zip)
+2. Support drag nodes to another node , fix #304
+3. fix #312 
+
+----
+
+![test1](https://user-images.githubusercontent.com/18719494/166091478-4cd1883c-7adf-4b00-af70-7b85c26ae796.gif)
+
+![test2](https://user-images.githubusercontent.com/18719494/166091482-ef936504-15a4-48ef-aca1-6c69028e23d8.gif)
+
+
+
+### v1.4.4
 
 1. fix #280
 2. fix parse obsidian callout bug
