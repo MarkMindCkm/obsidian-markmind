@@ -209,7 +209,7 @@ Use `ctrl + p` , execute `export to html` command
 - ctrl/cmd + p , click `set up pdfjs plugin path`
 - restart obsidian and check path in obsidian markmind setting tab    
 
-![encodepdfpath](https://user-images.githubusercontent.com/18719494/167292416-350c7e79-41ac-49af-88e1-ff1cdbcb3013.gif)
+![pdfjs](https://user-images.githubusercontent.com/18719494/167292216-78804074-5d72-4a29-b3ad-ecf14ae44fdf.gif)
 
 
 The pdf js path need set separately and if it is not work above in ios , you can try `filza` app , it can find obsidian path
