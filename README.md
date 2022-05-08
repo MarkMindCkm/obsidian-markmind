@@ -200,30 +200,19 @@ Use `ctrl + p` , execute `export to html` command
 ![folder](https://user-images.githubusercontent.com/18719494/163680014-432c40b6-899d-43dd-9547-48eb9577974f.gif)
 
 
-**About iPhone/iPad pdfjs path**:
-for example (iPad), you create `ios` folder in your vault , then put `pdfjs plugin` into it , the path will like this 
-`/var/mobile/Containers/Data/Application/FACF6387-DAA2-45B3-8F52-3536E1EC29A1/Documents/ios/pdfjs`
-
-`FACF6387-DAA2-45B3-8F52-3536E1EC29A1`  are different on each device 
-
-**About andriod pdfjs path**,for example,like this
-`/storage/emulated/0/Documents/obsidian/obsidian/andriod/pdfjs`
-
-**About PC pdfjs path**,like this
-
-`D:plugin/pdfjs`
-
-
 #### How to set up your pdfjs plugin path?
-In pc , you can open setting tab and input  absolute path to  `pdfjs plugin`   
+In pc , you can open setting tab and input  absolute path to  `pdfjs plugin`
 In mobile , you can open command board , then you can find a `set up mobile pdf js plugin path` command ,then click it   
 
 - download lastest pdfjs plugin ，unzip it  
 - in andriod , create a `andriod` folder then put `pdfjs` folder in it  
-- in ios , create a `ios` folder then put `pdfjs` folder in it  
-- open a mind map  
-- call up command board , then you can find a set up mobile pdfjs plugin path command , click it  
+- in ios , create a `ios` folder then put `pdfjs` folder in it
+- in pc , put `pdfjs` folder to `.obsidian` folder
+- ctrl/cmd + p , click `set up pdfjs plugin path`
 - restart obsidian and check path in obsidian markmind setting tab    
+
+![encodepdfpath](https://user-images.githubusercontent.com/18719494/167292416-350c7e79-41ac-49af-88e1-ff1cdbcb3013.gif)
+
 
 The pdf js path need set separately and if it is not work above in ios , you can try `filza` app , it can find obsidian path
 
