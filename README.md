@@ -207,7 +207,7 @@ In mobile , you can open command board , then you can find a `set up mobile pdf 
 - download lastest pdfjs plugin ，unzip it  
 - in andriod , create a `andriod` folder then put `pdfjs` folder in it  
 - in ios , create a `ios` folder then put `pdfjs` folder in it
-- in pc , put `pdfjs` folder to `.obsidian` folder
+- in pc , put `pdfjs` folder to `.obsidian` folder , in mac `command+shift+.` can show the hidden folder
 - ctrl/cmd + p , click `set up pdfjs plugin path`
 - restart obsidian and check path in obsidian markmind setting tab    
 
