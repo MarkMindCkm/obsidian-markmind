@@ -5,7 +5,7 @@
 
 ## Notice 
 
-This is not an open source project .  
+This is not an open source project . but `lishid (obsidian developer)` can check this code.
 Web site : https://www.markmind.net
 
 ### Price
