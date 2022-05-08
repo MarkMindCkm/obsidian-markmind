@@ -201,8 +201,6 @@ Use `ctrl + p` , execute `export to html` command
 
 
 #### How to set up your pdfjs plugin path?
-In pc , you can open setting tab and input  absolute path to  `pdfjs plugin`
-In mobile , you can open command board , then you can find a `set up mobile pdf js plugin path` command ,then click it   
 
 - download lastest pdfjs plugin ，unzip it  
 - in andriod , create a `andriod` folder then put `pdfjs` folder in it  
