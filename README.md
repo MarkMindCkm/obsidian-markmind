@@ -309,6 +309,8 @@ There are three ways to  relate mind map node and annotate
 
 ![delete nodes](https://user-images.githubusercontent.com/18719494/172137807-f0aefce2-1f29-443a-94af-2f95138b6224.gif)
 
+![rich](https://user-images.githubusercontent.com/18719494/171544455-650cd9c5-0fe4-4177-8d29-618ae2b76df0.gif)
+
 ---
 
 ### v1.4.5
