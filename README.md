@@ -300,7 +300,18 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.4.5
+## Change log  v1.5.0
+1. fix #356 , now support drag node to summary root in rich mode mindmap
+2. fix cannot delete node layout bug
+3. support batch delete nodes in rich mode ， use `delete/backspace` key to delete node
+
+----
+
+![delete nodes](https://user-images.githubusercontent.com/18719494/172137807-f0aefce2-1f29-443a-94af-2f95138b6224.gif)
+
+---
+
+### v1.4.5
 1. Support  auto add to selected node or root of mind map  when annotate pdf in pc  , please update for this feature [pc pdfjs](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/pc.pdfjs.zip)
 2. Support drag nodes to another node , fix #304
 3. fix #312 
