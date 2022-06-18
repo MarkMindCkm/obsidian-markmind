@@ -30,7 +30,7 @@ You can try it for 30 days for free，and you can buy a active code in website ,
 - [Display basic mode to outline](https://markmindckm.github.io/markmind-docs/#/outline)
 - [Display basic mode to table](https://markmindckm.github.io/markmind-docs/#/table)
 - [Create rich mode of mindmap](https://markmindckm.github.io/markmind-docs/#/rich)
-- [Get markdown text from rich mode of midnmap](https://markmindckm.github.io/markmind-docs/#/markdown)
+- [Get markdown text from rich mode of mindmap](https://markmindckm.github.io/markmind-docs/#/markdown)
 - [Copy and paste node of mindmap](https://markmindckm.github.io/markmind-docs/#/copy)
 - [Embed mindmap in other markdown file](https://markmindckm.github.io/markmind-docs/#/embed)
 - [Common operations of mindmap](https://markmindckm.github.io/markmind-docs/#/common)
