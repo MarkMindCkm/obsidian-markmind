@@ -21,7 +21,9 @@ Web site : https://www.markmind.net
 
 
 You can try it for 30 days for free，and you can buy a active code in website , then input it in setting tab 
+
 ---
+
 ## Markmind docs navigation
 ### Mindmap
 - [Create basic mode of mindmap](https://markmindckm.github.io/markmind-docs/#/basic)
