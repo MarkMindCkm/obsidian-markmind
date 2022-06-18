@@ -22,6 +22,25 @@ Web site : https://www.markmind.net
 
 You can try it for 30 days for free，and you can buy a active code in website , then input it in setting tab 
 
+## Markmind docs
+### Mindmap
+- [Create basic mode of mindmap](https://markmindckm.github.io/markmind-docs/#/basic)
+- [Display basic mode to outline](https://markmindckm.github.io/markmind-docs/#/outline)
+- [Display basic mode to table](https://markmindckm.github.io/markmind-docs/#/table)
+- [Create rich mode of mindmap](https://markmindckm.github.io/markmind-docs/#/rich)
+- [Get markdown text from rich mode of midnmap](https://markmindckm.github.io/markmind-docs/#/markdown)
+- [Copy and paste node of mindmap](https://markmindckm.github.io/markmind-docs/#/copy)
+- [Embed mindmap in other markdown file](https://markmindckm.github.io/markmind-docs/#/embed)
+- [Common operations of mindmap](https://markmindckm.github.io/markmind-docs/#/common)
+   -  Drag image from desktop to rich mode of mindmap
+   -  Copy text from browser to mindmap
+   -  Drag multiple nodes
+### PDF annotator
+- [Setup and features](https://markmindckm.github.io/markmind-docs/#/pdfAnnotator)
+- [Extracting annotations from pdf files](https://markmindckm.github.io/markmind-docs/#/highlight)
+- [Committing highlights and notes to pdf](https://markmindckm.github.io/markmind-docs/#/commitHighlight)
+- [Relate mindmap node with annotation](https://markmindckm.github.io/markmind-docs/#/relate)
+
 
 ## Introduction
 
