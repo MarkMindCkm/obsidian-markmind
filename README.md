@@ -322,7 +322,20 @@ There are three ways to  relate mind map node and annotate
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-## Change log  v1.5.2
+## Change log  v1.5.3
+
+1. fix #395 
+2. add tree up layout for rich mindmap
+
+---
+
+![12345](https://user-images.githubusercontent.com/18719494/180642780-7b36cff9-c534-488c-962b-8215627d8c5c.gif)
+
+
+
+
+
+### v1.5.2
 
 1. add layout for rich mindmap
 2. [obsidian markmind docs](https://markmindckm.github.io/markmind-docs)
