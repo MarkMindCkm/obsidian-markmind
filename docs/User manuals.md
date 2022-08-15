@@ -1,71 +1,75 @@
-# obsidian mark mind
+# Obsidian Markmind
 
-Obsidian mark mind is a mind map , outliner and pdf annotate tool base on obsidian api.
+The Obsidian Markmind Pluigin is a mind map, outliner, and PDF annotation tool that uses the Obsidian API.
 
-### mindmap short cut
+## Mind Map Shortcuts
 
-| New Mind Map                            | Ctrl/Cmd+P                   |
-| --------------------------------------- | ---------------------------- |
-| New child node                          | Tab                          |
-| New brother node                        | enter                        |
-| Delete node                             | Delete/Backspace             |
-| edit node                               | Space/dblclick node          |
-| Undo                                    | Ctrl/Cmd+Z                   |
-| Redo                                    | Ctrl/Cmd+Y                   |
-| Quit edit node                          | Tab                          |
-| Expand node                             | Ctrl/Cmd + /                 |
-| Collapse node                           | Ctrl/Cmd + /                 |
-| Move node to another node               | Drag and drop node           |
-| Tab node                                | Up/down/left/right           |
-| Zoom in/out                             | Ctrl/Cmd + mouse wheel       |
-| Mind map to center                      | Ctrl/Cmd + E                 |
-| Change mindmap layout                   | Ctrl/Cmd + U / D / L / R / M / J|
-| delete summary / boundary / relate link | Delete/Backspace             |
+| Create New Mind Map                      | Ctrl/Cmd + P                       |
+| ---------------------------------------- | ---------------------------------- |
+| Create New Child Node                    | Tab                                |
+| Create New Sibling Node                  | Enter                              |
+| Delete Node                              | Delete / Backspace                 |
+| Edit Node                                | Space / Dbl Click Node             |
+| Undo                                     | Ctrl / Cmd + Z                     |
+| Redo                                     | Ctrl / Cmd + Y                     |
+| Quit Edit Node                           | Tab                                |
+| Expand Node                              | Ctrl / Cmd + /                     |
+| Collapse Node                            | Ctrl / Cmd + /                     |
+| Move Node To Another Node                | Drag & Drop Node                   |
+| Tab Node                                 | Up / Down / Left / Right           |
+| Zoom In / Out                            | Ctrl / Cmd + Scroll Up / Down      |
+| Center Mind Map                          | Ctrl / Cmd + E                     |
+| Change Mind Map Layout                   | Ctrl / Cmd + U / D / L / R / M / J |
+| Delete Summary / Boundary / Related Link | Delete / Backspace                 |
 
+---
 
-## There are tow types to save pdf annotation,the default is  use `annos` file to save annotations,the other ways is use `md` file to save annotations
+## PDF Annotator
 
-### how to use pdf annotate
+### How To Save PDF Annotations
 
-### step
+There are two ways to save pdf annotations:
+   1. The default method is with the ` .annos ` file extension.
+   2. The other method is with the ` .md ` file extension.
 
-1. You need download pdf js plugin , download this [pdf js plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.2/pdfjs.rar)
-2. Open setting tab  to set up pdf plugin path , for example:D:plugins/pdfjs , It is a absolute path
-3. Open as mind map
-4. Use `[[]]` to reference pdf
-5. Click pdf reference , it will open a pdf reader if pdf plugin path is correct
-6. Use pdf annotate function 
-   - it will create `annos` file in your folder as default, the `annos` file store annotations data,`annos` file is a `json` file in fact
-   - if you select (save pdf annotation type ) `markdown` in setting tab , it will create `${pdf name}-annotate.md` file in your folder. Each annotation has an associated quote block with a block reference. please do not  modify these blocks
+### How To Use The PDF Annotator
+
+1. You first will need to download the [PDF JS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.2/pdfjs.rar).
+2. Open the Setting Tab inside your Obsidian App to set up the PDF Plugin Path:
+      - example: ` D:plugins/pdfjs `
+      - The path needs to be an absolute path
+4. Open any file as a Mind Map.
+5. Use ` [[]] ` to make PDF Reference.
+6. Click PDF Reference, which will open a PDR reader if the PDF Plugin path has properly configured.
+7. Use PDF Annotate function:
+   - By default this will create a ` .annos ` file in your folder where the annotation data will be saved. Although it uses the ` .annos ` file extension, this file is in fact a ` .json ` file.
+   - If you select (save PDF annotation type ) ` markdown ` in setting tab , it will create a ` ${pdf name}-annotate.md ` file in your folder. Each annotation has an associated quote block with a block reference. **DO NOT manually modify these blocks.**
    
 
-### how to relate mind map node and annotate?
+### How To Relate Mind Map Nodes And Annotations
 
-There are three ways to  relate mind map node and annotate
+There are three ways to relate Mind Map Nodes and Annotations:
 
-#### Default
+1. Default:
+   -  Make a PDF annotation.
+   -  Click PDF annotate.
+   -  Edit a Mind Map Node , and press ` Ctrl / Cmd + v ` to relate node and annotate.
+   -  Clicking Node PDF annotate mark will auto copy the ` id ` of an annotation to the clipboard.
 
-- make a pdf annotate
-- click pdf annotate
-- edit mind map node , `ctrl/cmd + v` to relate node and annotate
-- click node pdf annotate mark will auto copy `id` of annotate to clipboard
+2. Use The Protocol Support ` obsidian://jump-to-pdf: `
+   -  Open protocol support in setting tab.
+   -  Automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate.
+   -  Paste to markdown file.
 
-
-#### Support `obsidian://jump-to-pdf` protocol
-
-- open protocol support in setting tab
-- automatic create PDF annotation reference link and copy to clipboard when click pdf-annotate
-- paste to markdown file
-
-#### If you use markdown to save pdf annotations
-
--	you can use `[[${md name}#${block reference}]]` to associate quote block with a block reference.
--	An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight. If the file is already open in a pane, then the link will cause the existing pane to scroll instead.
+3. Use Markdown To Save PDF Annotations:
+   -  You can use ` [[${md name}#${block reference}]] ` to associate quote block with a block reference.
+   -	An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight. If the file is already open in a pane, then the link will cause the existing pane to scroll instead.
 
 
-### demonstration
+## Demonstration
 
-#### `obsidian://jump-to-pdf`
+### ` obsidian://jump-to-pdf `
+
 ![1](https://user-images.githubusercontent.com/18719494/130034457-f9f44170-6030-4179-b59f-21d4035c82c7.gif)
 
 ![2](https://user-images.githubusercontent.com/18719494/130034688-496d8156-d4c5-4764-bc4e-a9e0d7e2a499.gif)
@@ -74,14 +78,15 @@ There are three ways to  relate mind map node and annotate
 
 ![4](https://user-images.githubusercontent.com/18719494/130035036-fe5394ed-8e18-4e3e-922e-81674f132061.gif)
 
-#### Markdown file of annotations
+### Markdown File Of Annotations
+
 ![1](https://user-images.githubusercontent.com/18719494/131444787-c6168197-ecd6-4b20-a134-39eb54c47d90.gif)
 ![2](https://user-images.githubusercontent.com/18719494/131444872-6b11111d-48de-462d-b96a-d468a0aeb8ef.gif)
 
 
-## outline
+## Outline Mode
 
-## In `basic` mode
+### In ` basic ` Mode
 
 You can add yaml to active outline mode:
 
@@ -95,19 +100,14 @@ display-mode: outline
 
 ```
 
-### Outline short cut
+### Outline Mode Shortcuts
 
-| Features             | Short Cut                       |
-| -------------------- | ------------------------------- |
-| New Brother Node     | Enter                           |
-| Indent               | Tab                             |
-| Unindent             | Shift+Tab                       |
-| Zoom in              | Ctrl/Cmd+] Or Double Click Dott |
-| Zoom out             | Ctrl/Cmd+[                      |
-| Move Up Or Down Node | Ctrl/Cmd + up/down              |
-
-
-
-
-
+| Features             | Shortcut                        |
+| -------------------- | -------------------------------- |
+| New Sibling Node     | Enter                            |
+| Indent               | Tab                              |
+| Outdent              | Shift + Tab                      |
+| Zoom In              | Ctrl/Cmd + ] Or Double Click Dot |
+| Zoom Out             | Ctrl/Cmd + [                     |
+| Move Up Or Down Node | Ctrl/Cmd + Up / Down             |
 
