@@ -25,7 +25,7 @@ Web site : https://www.markmind.net
 You can try it for 30 days for free，and you can buy a active code in website , then input it in setting tab 
 
 
-[Discord serve](https://discord.gg/8653ZWX649)
+[Discord server](https://discord.gg/8653ZWX649)
 
 ---
 
