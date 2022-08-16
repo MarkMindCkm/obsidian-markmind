@@ -8,6 +8,8 @@
 This is not an open source project . but `lishid (obsidian developer)` can check this code.  
 Web site : https://www.markmind.net
 
+
+
 ### Price
 
 | free  | Catalyst |
@@ -21,6 +23,9 @@ Web site : https://www.markmind.net
 
 
 You can try it for 30 days for free，and you can buy a active code in website , then input it in setting tab 
+
+
+[Discord serve](https://discord.gg/8653ZWX649)
 
 ---
 
