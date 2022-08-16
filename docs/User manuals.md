@@ -34,7 +34,13 @@ There are two ways to save pdf annotations:
 
 ### How To Use The PDF Annotator
 
-1. You first will need to download the [PDF JS Plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/0.1.2/pdfjs.rar).
+
+[PC pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/pc.pdfjs.zip)   
+[andriod pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
+[ios pdfjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)   
+
+
+1. You first will need to download the PDF JS Plugin
 2. Open the Setting Tab inside your Obsidian App to set up the PDF Plugin Path:
       - example: ` D:plugins/pdfjs `
       - The path needs to be an absolute path
