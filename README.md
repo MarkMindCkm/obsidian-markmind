@@ -351,6 +351,23 @@ There are three ways to  relate mind map node and annotate
 
 
 
+### v1.5.5
+
+This is the first test version of markmind Obsidian supporting Obsidian 0.15.0 popout windows , and some of the features aren't working as expected in the Obsidian popouts yet
+
+- fix #412
+- fix #400
+
+
+#### community
+[Discord server](https://discord.gg/8653ZWX649)
+
+
+----
+![test](https://user-images.githubusercontent.com/18719494/185738266-430f3103-f2e7-4712-8606-726ebc310fe1.gif)
+
+
+
 ### v1.5.0
 1. fix #356 , now support drag node to summary root in rich mode mindmap
 2. fix cannot delete node layout bug
