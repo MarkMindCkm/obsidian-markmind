@@ -68,7 +68,7 @@ Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidia
    - Right clicking a folder and selecting `New MindMap Board`
    - Add the YAML code by hand:
 
-```yaml
+```YAML
 ---
 
 MindMap-plugin: basic (or rich)
@@ -89,7 +89,7 @@ To access the Outline mode you can either:
 - Click `More options` on the note and then `Open outline`
 - Add the YAML code by hand:
 
-```yaml
+```YAML
 ---
 
 MindMap-plugin: basic
@@ -130,7 +130,7 @@ To access the Table mode you can either:
 - Click `More options` on the note and then `Open as table`
 - Add the YAML code by hand:
 
-```
+```YAML
 ---
 
 MindMap-plugin: basic
@@ -140,8 +140,6 @@ display-mode: table
 ```
 
 ![table](https://user-images.githubusercontent.com/18719494/150626028-8d8733d5-8cd2-4eaf-b369-73ebbbcc5244.gif)
-
----
 
 ### Rich
 
@@ -154,7 +152,7 @@ In Rich mode you can use all the functions of basic mode. In addition you can:
 
 #### Rich mode markdown format:
 
-```markdown
+```YAML
 ---
 
 MindMap-plugin: rich
@@ -165,8 +163,6 @@ MindMap-plugin: rich
 
 {JSON Data}
 ```
-
-The MindMap data will store in `json` format
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130028629-1a1e448d-32b9-4201-b152-1ad09439e18e.gif' width="800px">
 
@@ -197,7 +193,7 @@ The MindMap data will store in `json` format
    - On Mac `Command + Shift+ .` to show the hidden folder, extract `PDFJS` folder to `.obsidian` folder
    - Restart Obsidian
 2. Open settings tab for MarkMind and set the PDF plugin path
-   - For example: D:\plugins\PDFJS
+   - For example: `D:\plugins\PDFJS`
 3. Ensure these folders are present in PDFJS folder (VaultLocation\.obsidian\PDFJS):
    - build
    - epub
@@ -206,7 +202,7 @@ The MindMap data will store in `json` format
    - web
 4. Add the following YAML code to the MindMap document:
 
-```
+```YAML
 ---
 
 annotate-target: test/test.PDF
@@ -223,7 +219,7 @@ annotate-type: PDF
    - This should be a relative path pointing to your vault folder
 2. Or you can add the folder path in YAML:
 
-```
+```YAML
 ---
 
 annotate-target: test/test.PDF
