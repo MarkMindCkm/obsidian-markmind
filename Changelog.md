@@ -4,14 +4,16 @@
 
 1. Fix #326 
    - Support import image from xmind zen file when dragging xmind zen file to `rich` mode
-   - You must set up image folder import from xmind zen in yaml
+   - You must set up image folder import from xmind zen in YAML
    - This is a relative path (based on vault folder)
    - For example:
    
-```yaml
+```YAML
 ---
+
 mindmap-plugin: rich
 xmind-image-target: xmind
+
 ---
 ```
 
@@ -94,10 +96,12 @@ Note: This is the first test version of MarkMind supporting Obsidian 0.15.0 pop 
 1. Support annotate `http(s)`
 2. You should ensure Obsidian can access the PDF file. For example:
 
-```
+```YAML
 ---
+
 annotate-type: PDF
 annotate-target: https://mozilla.github.io/PDF.js/legacy/web/compressed.tracemonkey-pldi-09.PDF
+
 ---
 ```
 
@@ -118,11 +122,13 @@ Comment:{{comment}}
 1. Support setup layout in YAML for `basic` mode
    - **Setup value `MindMap-layout` and `MindMap-layout-direct` at the same time!**
 
-```
+```YAML
 ---
+
 MindMap-plugin: basic
 MindMap-layout: fish
 MindMap-layout-direct: right
+
 ---
 ```
 
@@ -198,10 +204,12 @@ Comment:{{comment}}
    - Click it, then copy it to a md file, open table-extended plugin
    - **Note: Wrap is not supported in table mode**
 
-```
+```YAML
 ---
+
 MindMap-plugin: `basic`
 display-mode: table
+
 ---
 ```
 
@@ -223,11 +231,13 @@ display-mode: table
 3. Fix cannot click `copy` button bug when clicking on an annotation
 4. Fix loss of `annotate-image-target` bug when saving PDF annotations
 
-```
+```YAML
 ---
+
 annotate-type: PDF
 annotate-target: PDF/test.PDF
 annotate-image-target: test/test
+
 ---
 ```
 
@@ -262,11 +272,13 @@ Comment:{{comment}}
    - Support set up folder path for image of rect annotate in YAML
    - This is a relative path to a folder in your vault
 
-```
+```YAML
 ---
+
 annotate-type: PDF
 annotate-target: PDF/test.PDF
 annotate-image-target: test/test
+
 ---
 ```
 
@@ -350,10 +362,12 @@ Comment:{{comment}}
 3. Support adding a theme
 4. Support for white board
 
-```
+```YAML
 ---
+
 MindMap-plugin: rich
 MindMap-theme: whiteboard
+
 ---
 ```
 
@@ -517,10 +531,12 @@ Note:
 
 #### Epub YAML
 
-```
+```YAML
 ---
+
 annotate-target: test.epub
 annotate-type: epub
+
 ---
 ```
 
@@ -678,10 +694,12 @@ iPad screen short
 
 #### Theme example
 
-```
+```YAML
 ---
+
 MindMap-plugin: basic (or rich)
 MindMap-theme: dark (or light or card)
+
 ---
 ```
 
@@ -697,10 +715,12 @@ MindMap-theme: dark (or light or card)
    - If you use `file://` the annotations will be saved to this markdown file
    - Example YAML:
 
-```
+```YAML
 ---
+
 annotate-target: file://PDF absolute path
 annotate-type: PDF
+
 ---
 ```
 
@@ -765,9 +785,11 @@ annotate-type: PDF
 
 #### Rich format example
 
-```
+```YAML
 ---
+
 MindMap-plugin: rich
+
 ---
 
 # title
@@ -775,12 +797,14 @@ MindMap-plugin: rich
   ${MindMap data}
 ```
 
-The use of PDF annotation has changed. If you want to use the annotate function, you can add this `yaml` to your markdown file:
+The use of PDF annotation has changed. If you want to use the annotate function, you can add this `YAML` to your markdown file:
 
-```
+```YAML
 ---
+
 annotate-target: test/test.PDF
 annotate-type: PDF
+
 ---
 ```
 
