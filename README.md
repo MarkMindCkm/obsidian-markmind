@@ -3,7 +3,7 @@
 
 ### Notice 
 
-This is not an open source project but `lishid (obsidian developer)` can check this code.  
+This is not an open source project but `lishid (obsidian developer)` can check this code
 
 ## Feature Comparison
 
@@ -32,13 +32,13 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
    -  Drag multiple nodes
 ### PDF annotator
 - [Setup and features](https://markmindckm.github.io/markmind-docs/#/pdfAnnotator)
-- [Extracting annotations from pdf files](https://markmindckm.github.io/markmind-docs/#/highlight)
-- [Committing highlights and notes to pdf](https://markmindckm.github.io/markmind-docs/#/commitHighlight)
+- [Extracting annotations from PDF files](https://markmindckm.github.io/markmind-docs/#/highlight)
+- [Committing highlights and notes to PDF](https://markmindckm.github.io/markmind-docs/#/commitHighlight)
 - [Relate mindmap node with annotation](https://markmindckm.github.io/markmind-docs/#/relate)
 
 ## Introduction
 
-Obsidian mark mind is a mind map, outline, and pdf annotate tool based on Obsidian API.
+Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidian API.
 
 ### Features:
 - Links
@@ -60,12 +60,10 @@ Obsidian mark mind is a mind map, outline, and pdf annotate tool based on Obsidi
 
 ## Creating a MindMap file
 
-It contains two modes: `Basic` and `Rich`
-
-You can create a MindMap file by either:
-
-- Right clicking a folder and selecting "New MindMap Board"
-- Add the YAML code by hand:
+- It contains two modes: `Basic` and `Rich`
+- You can create a MindMap file by either:
+   - Right clicking a folder and selecting "New MindMap Board"
+   - Add the YAML code by hand:
 
 ```yaml
 ---
@@ -88,7 +86,7 @@ To access the Outline mode you can either:
 - Click "More options" on the note and then "Open outline"
 - Add the YAML code by hand:
 
-``` 
+```
 ---
 
 mindmap-plugin: basic
@@ -100,7 +98,7 @@ display-mode: outline
 
 ##### MindMap Outline short cuts
 
-| Feature                              | Short Cut                                                  |
+| Feature                               | Short Cut                                                  |
 | ------------------------------------- | ---------------------------------------------------------- |
 | New Mind Map                          | Ctrl/Cmd+P                                                 |
 | New Child Node                        | Enter                                                      |
@@ -123,7 +121,6 @@ display-mode: outline
 | Delete summary/boundary/related link  | Delete/Backspace                                           |
 
 ![outline](https://user-images.githubusercontent.com/18719494/138630597-fc2396d1-c818-43dc-83eb-fa638d8a0028.gif)
-
 
 #### Table
 
@@ -169,13 +166,11 @@ mindmap-plugin: rich
 {JSON Data}
 ```
 
-The MindMap data will store in `json` format. 
-
+The MindMap data will store in `json` format
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130028629-1a1e448d-32b9-4201-b152-1ad09439e18e.gif' width="800px">
 
 ### Other functions
-
 
 - Exporting MindMap to image
    - Use `Ctrl + P` and click `Export to HTML` command
@@ -190,24 +185,24 @@ The MindMap data will store in `json` format.
 - Area annotate
 - Relate MindMap node and annotate
 
-### How to use pdf annotate
+### How to use PDF annotate
 
-1. Download the appropriate PDF JS plugins:
-   - [PC PDF JS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/pc.pdfjs.zip)
-   - [Android PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
-   - [IOS PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.pdfjs.zip)
+1. Download the appropriate PDFJS plugins:
+   - [PC PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/PC.PDFJS.zip)
+   - [Android PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.PDFJS.zip)
+   - [IOS PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.PDFJS.zip)
 2. Install PDFJS plugin:
    - Download relevant PDFJS plugin and unzip it
    - On Android, create an `Android` folder then extract `PDFJS` folder into it
    - On IOS, create an `IOS` folder, then extract `PDFJS` folder into it
-      - The PDF JS path is set separately and if it does not you can try `filza` app, it can find the path to Obsidian
+      - The PDFJS path is set separately and if it does not you can try `filza` app, it can find the path to Obsidian
    - On PC, extract `PDFJS` folder to `.obsidian` folder
-      - ctrl/cmd + p , click `set up pdfjs plugin path`
+      - ctrl/cmd + p , click `set up PDFJS plugin path`
    - On Mac `Command+Shift+.` to show the hidden folder, extract `PDFJS` folder to `.obsidian` folder
    - Restart Obsidian
 2. Open settings tab for MarkMind and set the PDF plugin path
-   - For example: D:\plugins\pdfjs
-3. Ensure these folders are present in PDFJS folder (VaultLocation\.obsidian\pdfjs):
+   - For example: D:\plugins\PDFJS
+3. Ensure these folders are present in PDFJS folder (VaultLocation\.obsidian\PDFJS):
    - build
    - epub
    - epub.js
@@ -218,8 +213,8 @@ The MindMap data will store in `json` format.
 ```
 ---
 
-annotate-target: test/test.pdf
-annotate-type: pdf
+annotate-target: test/test.PDF
+annotate-type: PDF
 
 ---
 ```
@@ -234,8 +229,8 @@ annotate-type: pdf
 ```
 ---
 
-annotate-target: test/test.pdf
-annotate-type: pdf
+annotate-target: test/test.PDF
+annotate-type: PDF
 annotate-image-target: assets/image
 
 ---
@@ -252,40 +247,40 @@ annotate-image-target: assets/image
 | Highlight Red      | CTRL/CMD/ALT + R                |
 | Delete annotate    | CTRL/CMD/ALT + Delete/Backspace |
 
-### Mind Map and pdf annotate 
+### Mind Map and PDF annotate 
 
 1. Open file as MindMap
-2. Use `[[]]` to reference pdf
-3. Click pdf reference, it will open a pdf reader if the pdf plugin path is correct
-4. Use the pdf annotate function:
+2. Use `[[]]` to reference PDF
+3. Click PDF reference, it will open a PDF reader if the PDF plugin path is correct
+4. Use the PDF annotate function:
    - It will create an `annos` file in your current folder by default, the `annos`
    - The 'annos' file stores annotations data in JSON format
-   - If you set the `Save pdf annotation type` as `markdown` in setting tab, it will create a `${pdf name}-annotate.md` file in your current folder. Each annotation has an associated quote block with a block reference. **Please do not modify these blocks**
+   - If you set the `Save PDF annotation type` as `markdown` in setting tab, it will create a `${PDF name}-annotate.md` file in your current folder. Each annotation has an associated quote block with a block reference. **Please do not modify these blocks**
 
 ### Relating MindMap nodes and annotations
 
 There are three ways to relate mind map node and annotations
 
 1. Default (Only supports rich mode)
-   - Make a pdf annotation
-   - Click pdf annotate
+   - Make a PDF annotation
+   - Click PDF annotate
    - Edit MindMap node and hit `CTRL/CMD + V` to relate the node and annotations
-   - Click the node pdf annotation and it will will auto copy the `id` of the annotation to your clipboard
-2. Jumpto protocol `obsidian://jump-to-pdf` (Supports basic and rich mode)
+   - Click the node PDF annotation and it will will auto copy the `id` of the annotation to your clipboard
+2. Jumpto protocol `obsidian://jump-to-PDF` (Supports basic and rich mode)
    - In MindMark settings, set `Support protocol` to 'Open'
-   - This will automatically create a PDF annotation reference link and copy to your clipboard when you click pdf-annotate
+   - This will automatically create a PDF annotation reference link and copy to your clipboard when you click PDF-annotate
    - Paste into markdown file
-3. Use markdown to save pdf annotations (Supports basic and rich mode)
+3. Use markdown to save PDF annotations (Supports basic and rich mode)
    - You can use `[[${md name}#${block reference}]]` to associate a quote block with a block reference
    - An obsidian link to an annotation block-reference will, when clicked, open the corresponding file and scroll to the associated highlight
    - If the file is already open in a pane, then the link will cause the existing pane to scroll instead
 
-### Importing pdf highlight annotations
+### Importing PDF highlight annotations
 
 1. You can use `CTRL + P` and then the change basic to rich mode command
-2. Import highlight annotations from pdf 
-   - You can find this in the 'more options' menu when opening a pdf
-3. You can also export pdf annotations in the pdf format
+2. Import highlight annotations from PDF 
+   - You can find this in the 'more options' menu when opening a PDF
+3. You can also export PDF annotations in the PDF format
    - In the `more options` menu for the MindMap document 
    - You can set the format you want in the MarkMind settings tab
    - The default format is:
@@ -299,8 +294,6 @@ Comment:{{comment}}
 #### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
-
-
 
 ## Donating
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
