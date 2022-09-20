@@ -1,4 +1,3 @@
-
 # Obsidian MarkMind
 
 ### **Notice**
@@ -66,7 +65,7 @@ Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidia
 
 - It contains two modes: `Basic` and `Rich`
 - You can create a MindMap file by either:
-   - Right clicking a folder and selecting "New MindMap Board"
+   - Right clicking a folder and selecting `New MindMap Board`
    - Add the YAML code by hand:
 
 ```yaml
@@ -131,7 +130,7 @@ To access the Table mode you can either:
 - Click `More options` on the note and then `Open as table`
 - Add the YAML code by hand:
 
-``` 
+```
 ---
 
 MindMap-plugin: basic
@@ -296,4 +295,5 @@ Comment:{{comment}}
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
 ## Donating
-<a href="https://www.buymeacoffee.com/MarkMind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MarkMind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
+<a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
