@@ -296,9 +296,7 @@ Comment:{{comment}}
 ^{{id}}
 ```
 
-[see it](https://github.com/MarkMindCkm/obsidian-markmind/releases/tag/1.3.5)
-
-### Demonstration
+#### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
