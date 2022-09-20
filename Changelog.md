@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.7
+
+1. ?
+2. ?
+3. ?
+
 ## v1.5.5
 
 Note: This is the first test version of MarkMind supporting Obsidian 0.15.0 pop out windows and some of the features aren't working as expected in the Obsidian pop outs yet
