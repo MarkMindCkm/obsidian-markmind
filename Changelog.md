@@ -9,10 +9,8 @@
    - For example:
 ```yaml
 ---
-
 mindmap-plugin: rich
 xmind-image-target: xmind
-
 ---
 ```
 
@@ -100,7 +98,6 @@ Note: This is the first test version of MarkMind supporting Obsidian 0.15.0 pop 
 annotate-type: PDF
 annotate-target: https://mozilla.github.io/PDF.js/legacy/web/compressed.tracemonkey-pldi-09.PDF
 ---
-
 ```
 
 3. Fix #253
@@ -141,7 +138,7 @@ MindMap-layout-direct: right
    - The default hand draw font is in `style.css`
    - In order to load the font you need internet access
 
-``` css
+```css
 @font-face{
   font-family: 'myFont'; 
   src:url('http://cdn.ghost-jack.top/chinese.ttf');
@@ -155,7 +152,7 @@ MindMap-layout-direct: right
 
 (Use `app://local/absolute font path` to load your local font  which you would not need internet access for)
 
-``` css
+```css
 
 @font-face{
   font-family: 'testFont'; 
@@ -164,7 +161,6 @@ MindMap-layout-direct: right
 .mm-handdraw-theme{
   font-family:'testFont';
 }
-
 ``` 
 
 ![handdraw1](https://user-images.githubusercontent.com/18719494/161531764-31ec36cf-e102-45f9-adf2-7c93240ab38c.gif)
@@ -224,15 +220,12 @@ display-mode: table
 1. Update to PC PDFJS [plugin](https://github.com/MarkMindCkm/Obsidian-MarkMind/releases/download/1.3.9/PDFJS.zip)
 2. Add a short cut `CTRL + C` to select text
 3. Fix cannot click `copy` button bug when clicking on an annotation
-4. Fix loss annotate-image-target` bug when saving PDF annotations
+4. Fix loss of annotate-image-target` bug when saving PDF annotations
 
 ```
----
 annotate-type: PDF
 annotate-target: PDF/test.PDF
 annotate-image-target: test/test
----
-
 ```
 
 #### MindMap
@@ -267,11 +260,9 @@ Comment:{{comment}}
    - This is a relative path to a folder in your vault
 
 ```
----
 annotate-type: PDF
 annotate-target: PDF/test.PDF
 annotate-image-target: test/test
----
 ```
 
 #### Copy Text
@@ -692,12 +683,8 @@ iPad screen short
 #### Theme example
 
 ```
----
-
 MindMap-plugin: basic (or rich)
 MindMap-theme: dark (or light or card)
-
----
 ```
 
 <img src="https://user-images.githubusercontent.com/18719494/136696974-a776ad2c-aab5-4d62-917f-2b294d1da40a.gif" width="300"/> <img src="https://user-images.githubusercontent.com/18719494/136696996-36cd0e77-8212-4b6f-8f55-6dbf617cf906.gif" width="300"/>
@@ -715,8 +702,8 @@ MindMap-theme: dark (or light or card)
 ```
 annotate-target: file://PDF absolute path
 annotate-type: PDF
-
 ```
+
 2. Fix #29
    - Support for mobile
 3. Add command:
@@ -778,28 +765,22 @@ annotate-type: PDF
 
 #### Rich format example
 
-<pre>
+```
 ---
 MindMap-plugin: rich
 ---
 
 # title
-``` json
+ json
   ${MindMap data}
 ```
 
-</pre>
- 
-<hr>
-  
 The use type of PDF annotation has changed. If you want to use the annotate function, you can add `yaml` to markdown file:
 
 ```
 ---
-
 annotate-target: test/test.PDF
 annotate-type: PDF
-
 ---
 ```
 
