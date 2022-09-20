@@ -38,7 +38,7 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
 
 ## Introduction
 
-Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidian API.
+Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidian API
 
 ### Features:
 - Links
@@ -77,7 +77,7 @@ mindmap-plugin: basic (or rich)
 
 ### Basic
 
-You can use the basic mind map function in conjunction with the outline or table mode. It works similar to the obsidian-enhancing-mindmap plugin. All of these modes are available in rich as well.
+You can use the basic mind map function in conjunction with the outline or table mode. It works similar to the obsidian-enhancing-mindmap plugin. All of these modes are available in rich mode as well
 
 #### Outline
 
