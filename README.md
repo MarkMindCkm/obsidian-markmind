@@ -105,7 +105,7 @@ display-mode: outline
 | New Mind Map                          | CTRL/CMD + P                              |
 | New Child Node                        | Enter                                     |
 | Indent                                | Tab                                       |
-| Unindent                              | Shift +Tab                                |
+| Unindent                              | Shift + Tab                                |
 | Zoom in                               | CTRL/CMD + ] or Double click bullet point |
 | Zoom out                              | CTRL/CMD + [                              |
 | Zoom in/out                           | CTRL + Mouse wheel                        |
