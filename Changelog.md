@@ -63,7 +63,7 @@ Note: This is the first test version of MarkMind supporting Obsidian 0.15.0 pop 
 3. Tip:
    -  Set color group on the settings tab to define the color of the node line
       - Examples: `red,orange,yellow,green,blue,#ccc,rgb(10,10,10)`
-   -  Set node color group to define board color when clicking on node 
+   -  Set node color group to define board color when clicking on node
 
 ## v1.4.3
 
@@ -173,8 +173,8 @@ MindMap-layout-direct: right
 
 ## v1.4.1
 
-1. Fix #237 
-2. Fix #236 
+1. Fix #237
+2. Fix #236
 3. Fix MindMap scale bug
 4. Support callout in `rich` mode
    - Supported on mobile and PC
@@ -189,7 +189,7 @@ MindMap-layout-direct: right
 
 ```
 Page:{{page}}
-<span style="color:{{color}}">■</span>:{{highlightText}} 
+<span style="color:{{color}}">■</span>:{{highlightText}}
 Comment:{{comment}}
 [📌]({{link}})
 ^{{id}}
@@ -243,7 +243,7 @@ annotate-image-target: test/test
 
 ```
 Page:{{page}}
-<span style="color:{{color}}">■</span>:{{highlightText}} 
+<span style="color:{{color}}">■</span>:{{highlightText}}
 Comment:{{comment}}
 ^{{id}}
 ```
@@ -258,7 +258,7 @@ Comment:{{comment}}
 2. Support search MindMap node
 3. Add a menu `toggle search box` in `more options`
 4. Fix #203
-   - Support only copy PDF annotate text 
+   - Support only copy PDF annotate text
 5. Support micro adjustment of the height of the PDF annotate
    - You can add an upward or downward adjustment distance in the settings tab
 6. Add a short cut `alt + i` to `toggle create rect annotate status`
@@ -316,7 +316,7 @@ https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-
 1. Fix #159
 2. Support creating rich mode from basic mode
    - You can use `CTRL + P` and then click the `change basic to rich mode` command
-3. Support `Import highlight annotations from PDF ` 
+3. Support `Import highlight annotations from PDF `
    - You can find a menu option for this in `more options` when opening a PDF
 4. Support export of PDF annotations as a format
    - You can find a menu option for this in `more options`
@@ -325,7 +325,7 @@ https://user-images.githubusercontent.com/18719494/154784360-9a502fe8-843c-416f-
 
 ```
 Page:{{page}}
-Text:{{highlightText}} 
+Text:{{highlightText}}
 Comment:{{comment}}
 ^{{id}}
 ```
@@ -401,7 +401,7 @@ MindMap-theme: whiteboard
 
 Making table in markdown is very troublesome, so `table` mode is added to `basic` mode for better ease
 
-- You can add `display-mode: table` in `basic` mode  
+- You can add `display-mode: table` in `basic` mode
 - Or you can find `open as table` in `more options`
 - Support get table html code
    - You can find `get table html` in `more options` when in `table` mode
@@ -415,7 +415,7 @@ Making table in markdown is very troublesome, so `table` mode is added to `basic
 MindMap-plugin: basic
 display-mode: table
 ---
-</pre> 
+</pre>
 
 ![table](https://user-images.githubusercontent.com/18719494/148937281-3ff868b3-ccb6-404e-8f37-14b8e153feb5.gif)
 
@@ -433,9 +433,9 @@ display-mode: table
    - The short cut is `ctrl + k`
 2. Add a layout `fish right`
    - The short cut is `ctrl + q`
-3. Add a layout `fish left` 
+3. Add a layout `fish left`
    - The short cut is `ctrl + t`
-4. Previous projects have been completed 
+4. Previous projects have been completed
    - This is plan for this year: https://github.com/MarkMindCkm/Obsidian-markmind/projects
 
 ![fish1](https://user-images.githubusercontent.com/18719494/148394155-8fb4007e-6061-4ea3-8693-d27bbc036f33.gif)
@@ -447,8 +447,8 @@ display-mode: table
 
 ## v1.2.7
 
-1. Fix #138 
-2. Fix #130 
+1. Fix #138
+2. Fix #130
 3. Fix #129
    - Support parse ![[MindMap md name]] to MindMap in MindMap node
 4. Fix #124
@@ -464,7 +464,7 @@ display-mode: table
 
 1. Add more options for canvas size in settings tab
 2. Optimize the logic of the pop-up node setting box
-3. Support export MindMap to html 
+3. Support export MindMap to html
    - Use `CTRL + P` then you can find the export to html command
 
 Note:
@@ -486,7 +486,7 @@ Note:
 
 ## 1.2.4
 
-1. Right click to select nodes and left click to move the MindMap  
+1. Right click to select nodes and left click to move the MindMap
 2. In rich mode, support set up node background/stroke/text color/text size
 3. If you want to change colors of the node setup board you can input the setup board color in the settings tab
    - Afterwards please restart Obsidian
@@ -517,7 +517,7 @@ Note:
    - [PC PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.2.0/PDFJS.zip)
    - [Android PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.2.0/Android.PDFJS.zip)
    - [IOS PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.2.0/ios.PDFJS.zip)
-2. Fix #87 
+2. Fix #87
 3. Support read and annotate epub file
    - This is currently a beta function
 4. Fix miss `$` when save data bug
@@ -565,7 +565,7 @@ Import xmind zen file
 `Ctrl + J` change to new layout
 ![note 12367133tt](https://user-images.githubusercontent.com/18719494/141953811-9657cf8d-e04e-4c7b-8499-154f9e3272d5.gif)
 
-## v1.1.7  
+## v1.1.7
 
 1. Update to PC PDFJS [plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.7/PDFJS.zip)
 2. Fix `basic` mode can add free node bug
@@ -600,14 +600,14 @@ Import xmind zen file
    - PC: [PC PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.6/PDFJS.zip)
    - Android: [Android PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.0/mobile.PDFJS.zip)
    - iPhone/iPad: [iPhone/iPad PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.9/ios.PDFJS.zip)
-2. Support adding note to MindMap node in rich mode  
-3. Summary node support add child node  
+2. Support adding note to MindMap node in rich mode
+3. Summary node support add child node
 4. `CTRL + P` add a command `get base path of vault`
-   - It will auto copy to clipboard  
+   - It will auto copy to clipboard
 
-![note](https://user-images.githubusercontent.com/18719494/139576838-812bf0c5-84e5-452e-accb-738517ebe7a9.gif)  
+![note](https://user-images.githubusercontent.com/18719494/139576838-812bf0c5-84e5-452e-accb-738517ebe7a9.gif)
 
-![123421](https://user-images.githubusercontent.com/18719494/139576842-3a2293a5-8238-4eb6-8475-1071ee5f14f5.gif)  
+![123421](https://user-images.githubusercontent.com/18719494/139576842-3a2293a5-8238-4eb6-8475-1071ee5f14f5.gif)
 
 ## v1.1.4
 
@@ -621,7 +621,7 @@ Import xmind zen file
 
 ## v1.1.2
 
-1. Fix #46  
+1. Fix #46
 2. Add `set MindMap to center` menu in `more options`
 
 ## v1.1.1
@@ -652,7 +652,7 @@ Notes:
 2. The path will look look like this:
    - `/storage/emulated/0/Documents/Obsidian/Obsidian/plugin/PDFJS`
 
-#### About PC PDFJS path  
+#### About PC PDFJS path
 
 1. Create a `plugin` folder in your vault and then put PDFJS plugin into it
 2. The path will look like this:
@@ -668,13 +668,13 @@ iPad screen short
    - Android: [Android PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.0/mobile.PDFJS.zip)
    - iPhone/iPad: [iPhone/iPad PDFJS plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.1.1/ios.PDFJS.zip)
 2. Fix #40
-   - You can select the MindMap mode (when creating a MindMap) in the settings tab 
+   - You can select the MindMap mode (when creating a MindMap) in the settings tab
    - The default is `basic`
 2. PDF annotate support for mobile
    - Only supports PDF in your vault, not `file://`
 3. In an md file, support for use of `[[md#^node id]]` to reference a node of a `rich` mode MindMap
    - You can find `copy node id` in the `more options` menu
-4. Support image folder in settings tab to save image of PDF rect annotations 
+4. Support image folder in settings tab to save image of PDF rect annotations
 5. Fix when annotate `file:// PDF path` cannot use rect annotate bug
 6. Support 3 themes in MindMap
 7. You can add YAML to markdown
@@ -682,11 +682,11 @@ iPad screen short
 #### PDFJS Setup
 
 1. You should set the PDFJS plugin path in the MindMark settings tab
-   - It is an absolute path   
+   - It is an absolute path
    - For example: 
      - ` D:plugins/PDFJS ` on PC
      - `/storage/emulated/0/Documents/Obsidian/Obsidian/plugin/PDFJS` on Android
-2. You should put PDFJS plugin into an accessible folder on mobiles 
+2. You should put PDFJS plugin into an accessible folder on mobiles
 3. The best way to find the path is to create a folder (such as `plugin`) in your vault and then put PDFJS plugin into it
 
 #### Theme example
@@ -753,19 +753,19 @@ annotate-type: PDF
 1. Emergency fix #22
 2. Emergency fix #21
 
-## v1.0.5  
+## v1.0.5
 
 1. Emergency fix for MindMap `rich` mode bug
 
 ## v1.0.4
- 
+
 1. Update to PDFJS [plugin](https://github.com/MarkMindCkm/Obsidian-markmind/releases/download/1.0.7/PDFJS.zip)
 2. Fix #18
    - You can select the PDF viewer theme in setting tab
 3. Fix #17, #15, and #8
 4. Support opening multiple PDF annotate and adding comments to annotation
 5. Support committing highlights and notes to PDFs
-   - You can find the `export PDF annotate` option in `more options` 
+   - You can find the `export PDF annotate` option in `more options`
    - It will create a file in your folder named `${PDF name}-annotate.PDF`
 6. Split PDF annotation and MindMap function  
 7. In `basic` mode, changed MindMap layout from `tree` to `MindMap`
@@ -778,7 +778,7 @@ annotate-type: PDF
 
 #### Rich format example
 
-<pre>  
+<pre>
 ---
 MindMap-plugin: rich
 ---
@@ -788,9 +788,9 @@ MindMap-plugin: rich
   ${MindMap data}
 ```
 
-</pre>  
+</pre>
  
-<hr>  
+<hr>
   
 The use type of PDF annotation has changed. If you want to use the annotate function, you can add `yaml` to markdown file:
 
@@ -804,9 +804,9 @@ annotate-type: PDF
 ```
 
 - In the MindMark settings tab, you can select the `md` or `annos` format to save annotations
-   - `annos` is the defaulttype
+   - `annos` is the default type
       - It is `json` file in fact, you can use `Obsidian://jump-to-PDF` to reference annotations
-      - Annotations do not contaminate MD files when referenced  
-   - `md` is the recommended way   
+      - Annotations do not contaminate MD files when referenced
+   - `md` is the recommended way 
       - You can use `Obsidian://jump-to-PDF` to reference annotations
       - Or you can use ![[md#^block id]] to reference annotations
