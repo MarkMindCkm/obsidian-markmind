@@ -7,7 +7,7 @@ This is not an open source project but [lishid](https://github.com/lishid) (obsi
 
 ### Feature Comparison
 
-| Free                                     | Catalyst |
+| Free                                     | Catalyst                                           |
 | ---------------------------------------- | -------------------------------------------------- |
 |  `Basic` mode of MindMap                 | Advanced features in `Rich` mode of MindMap        |
 |  Most features in `Rich` mode of MindMap | PDF annotate                                       |
@@ -27,9 +27,9 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
 - [Copy and paste node of MindMap](https://markmindckm.github.io/MarkMind-docs/#/copy)
 - [Embed MindMap in other markdown file](https://markmindckm.github.io/MarkMind-docs/#/embed)
 - [Common operations of MindMap](https://markmindckm.github.io/MarkMind-docs/#/common)
-   -  Drag image from desktop to rich mode of MindMap
-   -  Copy text from browser to MindMap
-   -  Drag multiple nodes
+   - Drag image from desktop to rich mode of MindMap
+   - Copy text from browser to MindMap
+   - Drag multiple nodes
 ### PDF annotator
 - [Setup and features](https://markmindckm.github.io/MarkMind-docs/#/pdfAnnotator)
 - [Extracting annotations from PDF files](https://markmindckm.github.io/MarkMind-docs/#/highlight)
@@ -103,10 +103,10 @@ display-mode: outline
 
 | Feature                               | Short Cut                                 |
 | ------------------------------------- | ----------------------------------------- |
-| New Mind Map                          | CTRL/CMD+P                                |
+| New Mind Map                          | CTRL/CMD + P                              |
 | New Child Node                        | Enter                                     |
 | Indent                                | Tab                                       |
-| Unindent                              | Shift+Tab                                 |
+| Unindent                              | Shift +Tab                                |
 | Zoom in                               | CTRL/CMD + ] or Double click bullet point |
 | Zoom out                              | CTRL/CMD + [                              |
 | Zoom in/out                           | CTRL + Mouse wheel                        |
@@ -116,8 +116,7 @@ display-mode: outline
 | Edit node                             | Space/Double click node                   |
 | Undo                                  | CTRL/CMD + Z                              |
 | Redo                                  | CTRL/CMD + Y                              |
-| Expand node                           | CTRL/CMD + /                              |
-| Collapse node                         | CTRL/CMD + /                              |
+| Expand/Collapse node                  | CTRL/CMD + /                              |
 | Move node to another node             | Drag and drop node                        |
 | Tab node                              | Up/Down/Left/Right                        |
 | Change MindMap layout                 | Select node, CTRL/CMD + U/D/L/R/M/J/K/T/Q |
