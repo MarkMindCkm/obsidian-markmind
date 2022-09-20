@@ -416,12 +416,14 @@ Making table in markdown is very troublesome, so `table` mode is added to `basic
 - You can change node position in `MindMap` mode
 - **Drag and drop is not supported**
 
-<pre>
+```YAML
 ---
+
 MindMap-plugin: basic
 display-mode: table
+
 ---
-</pre>
+```
 
 ![table](https://user-images.githubusercontent.com/18719494/148937281-3ff868b3-ccb6-404e-8f37-14b8e153feb5.gif)
 
