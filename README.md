@@ -3,17 +3,17 @@
 
 ### **Notice**
 
-This is not an open source project but `lishid (obsidian developer)` can check this code
+This is not an open source project but [lishid](https://github.com/lishid) (obsidian developer) can check this code
 
 ### Feature Comparison
 
-| Free  | Catalyst |
-| -------------------- | ------------------------------- |
-|  `Basic` mode of MindMap |  Advanced features in `Rich` mode of MindMap       |
-|  Most features in `Rich` mode of MindMap                                     |   PDF annotate                    |
-|    List mode         |        Support development                                            |
-|    PC and Mobile support         |       PC and Mobile support                                           |
-|    $0         |      $12 (forever) Buy [here](https://www.MarkMind.net)                                          |
+| Free                                     | Catalyst |
+| ---------------------------------------- | -------------------------------------------------- |
+|  `Basic` mode of MindMap                 | Advanced features in `Rich` mode of MindMap        |
+|  Most features in `Rich` mode of MindMap | PDF annotate                                       |
+|  List mode                               | Support development                                |
+|  PC and Mobile support                   | PC and Mobile support                              |
+|  $0                                      | $12 (forever) Buy [here](https://www.MarkMind.net) |
 
 You can try it for 30 days for free. After 30 days, you can purchase a code on the website
 
@@ -101,27 +101,27 @@ display-mode: outline
 
 ##### MindMap Outline short cuts
 
-| Feature                               | Short Cut                                                  |
-| ------------------------------------- | ---------------------------------------------------------- |
-| New Mind Map                          | Ctrl/Cmd+P                                                 |
-| New Child Node                        | Enter                                                      |
-| Indent                                | Tab                                                        |
-| Unindent                              | Shift+Tab                                                  |
-| Zoom in                               | Ctrl/Cmd+] or Double click bullet point                    |
-| Zoom out                              | Ctrl/Cmd+[                                                 |
-| Zoom in/out                           | Ctrl + Mouse wheel                                         |
-| Mind map to center                    | Ctrl/Cmd + E                                               |
-| Move Up Or Down Node                  | Ctrl/Cmd + Up/Down                                         |
-| Delete node                           | Delete/Backspace                                           |
-| Edit node                             | Space/dblclick node                                        |
-| Undo                                  | Ctrl/Cmd+Z                                                 |
-| Redo                                  | Ctrl/Cmd+Y                                                 |
-| Expand node                           | Ctrl/Cmd + /                                               |
-| Collapse node                         | Ctrl/Cmd + /                                               |
-| Move node to another node             | Drag and drop node                                         |
-| Tab node                              | Up/Down/Left/Right                                         |
-| Change MindMap layout                 | Select node, Ctrl/Cmd + U / D / L / R / M / J / K / T / Q  |
-| Delete summary/boundary/related link  | Delete/Backspace                                           |
+| Feature                               | Short Cut                                 |
+| ------------------------------------- | ----------------------------------------- |
+| New Mind Map                          | CTRL/CMD+P                                |
+| New Child Node                        | Enter                                     |
+| Indent                                | Tab                                       |
+| Unindent                              | Shift+Tab                                 |
+| Zoom in                               | CTRL/CMD + ] or Double click bullet point |
+| Zoom out                              | CTRL/CMD + [                              |
+| Zoom in/out                           | CTRL + Mouse wheel                        |
+| Mind map to center                    | CTRL/CMD + E                              |
+| Move Up Or Down Node                  | CTRL/CMD + Up/Down                        |
+| Delete node                           | Delete/Backspace                          |
+| Edit node                             | Space/Double click node                   |
+| Undo                                  | CTRL/CMD + Z                              |
+| Redo                                  | CTRL/CMD + Y                              |
+| Expand node                           | CTRL/CMD + /                              |
+| Collapse node                         | CTRL/CMD + /                              |
+| Move node to another node             | Drag and drop node                        |
+| Tab node                              | Up/Down/Left/Right                        |
+| Change MindMap layout                 | Select node, CTRL/CMD + U/D/L/R/M/J/K/T/Q |
+| Delete summary/boundary/related link  | Delete/Backspace                          |
 
 ![outline](https://user-images.githubusercontent.com/18719494/138630597-fc2396d1-c818-43dc-83eb-fa638d8a0028.gif)
 
@@ -175,7 +175,7 @@ The MindMap data will store in `json` format
 ### Other functions
 
 - Exporting MindMap to image
-   - Use `Ctrl + P` and click `Export to HTML` command
+   - Use `CTRL + P` and click `Export to HTML` command
 - Getting markdown in `rich` mode
    - You can find `Copy as markdown` menu in `More options`
 
@@ -219,7 +219,7 @@ annotate-type: PDF
 
 5. Then you can find `Annotate PDF` in `more options`
 
-### Screenshot folder for recy annotations
+### Screenshot folder for rect annotations
 
 1. In the MindMap plugin settings you can set a folder path
    - This should be a relative path pointing to your vault folder
