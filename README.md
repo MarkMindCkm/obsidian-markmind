@@ -1,5 +1,5 @@
 
-# Obsidian mark mind
+# Obsidian MarkMind
 
 ### **Notice**
 
@@ -10,37 +10,38 @@ This is not an open source project but `lishid (obsidian developer)` can check t
 | Free  | Catalyst |
 | -------------------- | ------------------------------- |
 |  `Basic` mode of MindMap |  Advanced features in `Rich` mode of MindMap       |
-|  Most features in `Rich` mode of mindmap                                     |   PDF annotate                    |
+|  Most features in `Rich` mode of MindMap                                     |   PDF annotate                    |
 |    List mode         |        Support development                                            |
 |    PC and Mobile support         |       PC and Mobile support                                           |
-|    $0         |      $12 (forever) Buy [here](https://www.markmind.net)                                          |
+|    $0         |      $12 (forever) Buy [here](https://www.MarkMind.net)                                          |
 
-You can try it for 30 days for free. After 30 days, you can purchase a code on the website. Enter the code on the settings tab for this plugin
+You can try it for 30 days for free. After 30 days, you can purchase a code on the website
 
-## Markmind docs navigation
-### Markmind
-- [Create basic mode of mindmap](https://markmindckm.github.io/markmind-docs/#/basic)
-- [Display basic mode to outline](https://markmindckm.github.io/markmind-docs/#/outline)
-- [Display basic mode to table](https://markmindckm.github.io/markmind-docs/#/table)
-- [Create rich mode of mindmap](https://markmindckm.github.io/markmind-docs/#/rich)
-- [Get markdown text from rich mode of mindmap](https://markmindckm.github.io/markmind-docs/#/markdown)
-- [Copy and paste node of mindmap](https://markmindckm.github.io/markmind-docs/#/copy)
-- [Embed mindmap in other markdown file](https://markmindckm.github.io/markmind-docs/#/embed)
-- [Common operations of mindmap](https://markmindckm.github.io/markmind-docs/#/common)
-   -  Drag image from desktop to rich mode of mindmap
-   -  Copy text from browser to mindmap
+## MarkMind docs navigation
+### MarkMind
+- [Create basic mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/basic)
+- [Display basic mode to outline](https://markmindckm.github.io/MarkMind-docs/#/outline)
+- [Display basic mode to table](https://markmindckm.github.io/MarkMind-docs/#/table)
+- [Create rich mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/rich)
+- [Get markdown text from rich mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/markdown)
+- [Copy and paste node of MindMap](https://markmindckm.github.io/MarkMind-docs/#/copy)
+- [Embed MindMap in other markdown file](https://markmindckm.github.io/MarkMind-docs/#/embed)
+- [Common operations of MindMap](https://markmindckm.github.io/MarkMind-docs/#/common)
+   -  Drag image from desktop to rich mode of MindMap
+   -  Copy text from browser to MindMap
    -  Drag multiple nodes
 ### PDF annotator
-- [Setup and features](https://markmindckm.github.io/markmind-docs/#/pdfAnnotator)
-- [Extracting annotations from PDF files](https://markmindckm.github.io/markmind-docs/#/highlight)
-- [Committing highlights and notes to PDF](https://markmindckm.github.io/markmind-docs/#/commitHighlight)
-- [Relate mindmap node with annotation](https://markmindckm.github.io/markmind-docs/#/relate)
+- [Setup and features](https://markmindckm.github.io/MarkMind-docs/#/pdfAnnotator)
+- [Extracting annotations from PDF files](https://markmindckm.github.io/MarkMind-docs/#/highlight)
+- [Committing highlights and notes to PDF](https://markmindckm.github.io/MarkMind-docs/#/commitHighlight)
+- [Relate MindMap node with annotation](https://markmindckm.github.io/MarkMind-docs/#/relate)
 
 ## Introduction
 
-Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidian API
+Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidian API
 
 ### Features:
+
 - Links
 - **Inline** ~~text~~ *styles*
 - <p> Multiline<br>
@@ -49,13 +50,15 @@ Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidi
 - Katex - $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 ### Links:
-- GitHub: https://github.com/MarkMindCkm/obsidian-markmind
+
+- GitHub: https://github.com/MarkMindCkm/obsidian-MarkMind
 - Changelog: [Here](/Changelog.md)
-- Web site: https://www.markmind.net
+- Web site: https://www.MarkMind.net
 - Join our Discord: https://discord.gg/8653ZWX649
-- Chinese Readme: [中文手册](https://github.com/MarkMindCkm/obsidian-markmind/blob/main/docs/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
+- Chinese Readme: [中文手册](https://github.com/MarkMindCkm/obsidian-MarkMind/blob/main/docs/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
 
 ### Related:
+
 - [coc-markmap](https://github.com/gera2ld/coc-markmap)
 - [gatsby-remark-markmap](https://github.com/gera2ld/gatsby-remark-markmap)
 
@@ -69,7 +72,7 @@ Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidi
 ```yaml
 ---
 
-mindmap-plugin: basic (or rich)
+MindMap-plugin: basic (or rich)
 
 ---
 ```
@@ -78,23 +81,22 @@ mindmap-plugin: basic (or rich)
 
 ### Basic
 
-You can use the basic mind map function in conjunction with the outline or table mode. It works similar to the obsidian-enhancing-mindmap plugin. All of these modes are available in rich mode as well
+You can use the basic mind map function in conjunction with the outline or table mode. It works similar to the obsidian-enhancing-MindMap plugin. All of these modes are available in rich mode as well
 
 #### Outline
 
 To access the Outline mode you can either:
 
-- Click "More options" on the note and then "Open outline"
+- Click `More options` on the note and then `Open outline`
 - Add the YAML code by hand:
 
-```
+```yaml
 ---
 
-mindmap-plugin: basic
+MindMap-plugin: basic
 display-mode: outline
 
 ---
-
 ```
 
 ##### MindMap Outline short cuts
@@ -127,17 +129,16 @@ display-mode: outline
 
 To access the Table mode you can either:
 
-- Click "More options" on the note and then "Open as table"
+- Click `More options` on the note and then `Open as table`
 - Add the YAML code by hand:
 
 ``` 
 ---
 
-mindmap-plugin: basic
+MindMap-plugin: basic
 display-mode: table
 
 ---
-
 ```
 
 ![table](https://user-images.githubusercontent.com/18719494/150626028-8d8733d5-8cd2-4eaf-b369-73ebbbcc5244.gif)
@@ -158,7 +159,7 @@ In Rich mode you can use all the functions of basic mode. In addition you can:
 ```markdown
 ---
 
-mindmap-plugin: rich
+MindMap-plugin: rich
 
 ---
 
@@ -188,18 +189,14 @@ The MindMap data will store in `json` format
 
 ### How to use PDF annotate
 
-1. Download the appropriate PDFJS plugins:
-   - [PC PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.4.5/PC.PDFJS.zip)
-   - [Android PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.PDFJS.zip)
-   - [IOS PDFJS plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.3.6/mobile.PDFJS.zip)
+1. Download the appropriate PDFJS [plugins](https://github.com/MarkMindCkm/obsidian-MarkMind/releases)
 2. Install PDFJS plugin:
-   - Download relevant PDFJS plugin and unzip it
    - On Android, create an `Android` folder then extract `PDFJS` folder into it
    - On IOS, create an `IOS` folder, then extract `PDFJS` folder into it
       - The PDFJS path is set separately and if it does not you can try `filza` app, it can find the path to Obsidian
    - On PC, extract `PDFJS` folder to `.obsidian` folder
-      - ctrl/cmd + p , click `set up PDFJS plugin path`
-   - On Mac `Command+Shift+.` to show the hidden folder, extract `PDFJS` folder to `.obsidian` folder
+      - `CTRL/CMD + P`, click `set up PDFJS plugin path`
+   - On Mac `Command + Shift+ .` to show the hidden folder, extract `PDFJS` folder to `.obsidian` folder
    - Restart Obsidian
 2. Open settings tab for MarkMind and set the PDF plugin path
    - For example: D:\plugins\PDFJS
@@ -219,9 +216,10 @@ annotate-type: PDF
 
 ---
 ```
+
 5. Then you can find `Annotate PDF` in `more options`
 
-### Screenshot folder for React annotations
+### Screenshot folder for recy annotations
 
 1. In the MindMap plugin settings you can set a folder path
    - This should be a relative path pointing to your vault folder
@@ -248,15 +246,17 @@ annotate-image-target: assets/image
 | Highlight Red      | CTRL/CMD/ALT + R                |
 | Delete annotate    | CTRL/CMD/ALT + Delete/Backspace |
 
-### Mind Map and PDF annotate 
+### Mind Map and PDF annotate
 
 1. Open file as MindMap
 2. Use `[[]]` to reference PDF
 3. Click PDF reference, it will open a PDF reader if the PDF plugin path is correct
 4. Use the PDF annotate function:
    - It will create an `annos` file in your current folder by default, the `annos`
-   - The 'annos' file stores annotations data in JSON format
-   - If you set the `Save PDF annotation type` as `markdown` in setting tab, it will create a `${PDF name}-annotate.md` file in your current folder. Each annotation has an associated quote block with a block reference. **Please do not modify these blocks**
+   - The `annos` file stores annotations data in JSON format
+   - If you set the `Save PDF annotation type` as `markdown` in setting tab, it will create a `${PDF name}-annotate.md` file in your current folder
+   - Each annotation has an associated quote block with a block reference
+      - **Please do not modify these blocks**
 
 ### Relating MindMap nodes and annotations
 
@@ -268,7 +268,7 @@ There are three ways to relate mind map node and annotations
    - Edit MindMap node and hit `CTRL/CMD + V` to relate the node and annotations
    - Click the node PDF annotation and it will will auto copy the `id` of the annotation to your clipboard
 2. Jumpto protocol `obsidian://jump-to-PDF` (Supports basic and rich mode)
-   - In MindMark settings, set `Support protocol` to 'Open'
+   - In MindMark settings, set `Support protocol` to `Open`
    - This will automatically create a PDF annotation reference link and copy to your clipboard when you click PDF-annotate
    - Paste into markdown file
 3. Use markdown to save PDF annotations (Supports basic and rich mode)
@@ -280,14 +280,14 @@ There are three ways to relate mind map node and annotations
 
 1. You can use `CTRL + P` and then the change basic to rich mode command
 2. Import highlight annotations from PDF 
-   - You can find this in the 'more options' menu when opening a PDF
+   - You can find this in the `more options` menu when opening a PDF
 3. You can also export PDF annotations in the PDF format
-   - In the `more options` menu for the MindMap document 
+   - In the `more options` menu for the MindMap document
    - You can set the format you want in the MarkMind settings tab
    - The default format is:
 ```
 Page:{{page}}
-Text:{{highlightText}} 
+Text:{{highlightText}}
 Comment:{{comment}}
 ^{{id}}
 ```
@@ -297,4 +297,4 @@ Comment:{{comment}}
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
 
 ## Donating
-<a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/MarkMind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MarkMind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
