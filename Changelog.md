@@ -2,9 +2,17 @@
 
 ## v1.5.7
 
-1. ?
-2. ?
-3. ?
+1. Fix #326 
+   - Support import image from xmind zen file when draging xmind zen file to rich mode
+   - You must set up image folder import from xmind zen in yaml
+   - This is a relative path (based on vault folder)
+   - For example:
+---
+
+mindmap-plugin: rich
+xmind-image-target: xmind
+
+---
 
 ## v1.5.5
 
