@@ -1,11 +1,11 @@
 
 # Obsidian mark mind
 
-### Notice 
+### **Notice**
 
 This is not an open source project but `lishid (obsidian developer)` can check this code
 
-## Feature Comparison
+### Feature Comparison
 
 | Free  | Catalyst |
 | -------------------- | ------------------------------- |
@@ -50,6 +50,7 @@ Obsidian mark mind is a mind map, outline, and PDF annotate tool based on Obsidi
 
 ### Links:
 - GitHub: https://github.com/MarkMindCkm/obsidian-markmind
+- Changelog: [Here](/Changelog.md)
 - Web site: https://www.markmind.net
 - Join our Discord: https://discord.gg/8653ZWX649
 - Chinese Readme: [中文手册](https://github.com/MarkMindCkm/obsidian-markmind/blob/main/docs/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
