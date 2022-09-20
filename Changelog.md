@@ -7,12 +7,14 @@
    - You must set up image folder import from xmind zen in yaml
    - This is a relative path (based on vault folder)
    - For example:
+```yaml
 ---
 
 mindmap-plugin: rich
 xmind-image-target: xmind
 
 ---
+```
 
 ## v1.5.5
 
