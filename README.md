@@ -18,22 +18,22 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
 
 ## MarkMind docs navigation
 ### MarkMind
-- [Create basic mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/basic)
-- [Display basic mode to outline](https://markmindckm.github.io/MarkMind-docs/#/outline)
-- [Display basic mode to table](https://markmindckm.github.io/MarkMind-docs/#/table)
-- [Create rich mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/rich)
-- [Get markdown text from rich mode of MindMap](https://markmindckm.github.io/MarkMind-docs/#/markdown)
-- [Copy and paste node of MindMap](https://markmindckm.github.io/MarkMind-docs/#/copy)
-- [Embed MindMap in other markdown file](https://markmindckm.github.io/MarkMind-docs/#/embed)
-- [Common operations of MindMap](https://markmindckm.github.io/MarkMind-docs/#/common)
+- [Create basic mode of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/basic)
+- [Display basic mode to outline](https://markmindckm.github.io/markmind-docs/index.html#/outline)
+- [Display basic mode to table](https://markmindckm.github.io/markmind-docs/index.html#/table)
+- [Create rich mode of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/rich)
+- [Get markdown text from rich mode of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/markdown)
+- [Copy and paste node of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/copy)
+- [Embed MindMap in other markdown file](https://markmindckm.github.io/markmind-docs/index.html#/embed)
+- [Common operations of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/common)
    - Drag image from desktop to rich mode of MindMap
    - Copy text from browser to MindMap
    - Drag multiple nodes
 ### PDF annotator
-- [Setup and features](https://markmindckm.github.io/MarkMind-docs/#/pdfAnnotator)
-- [Extracting annotations from PDF files](https://markmindckm.github.io/MarkMind-docs/#/highlight)
-- [Committing highlights and notes to PDF](https://markmindckm.github.io/MarkMind-docs/#/commitHighlight)
-- [Relate MindMap node with annotation](https://markmindckm.github.io/MarkMind-docs/#/relate)
+- [Setup and features](https://markmindckm.github.io/markmind-docs/index.html#/pdfAnnotator)
+- [Extracting annotations from PDF files](https://markmindckm.github.io/markmind-docs/index.html#/highlight)
+- [Committing highlights and notes to PDF](https://markmindckm.github.io/markmind-docs/index.html#/commitHighlight)
+- [Relate MindMap node with annotation](https://markmindckm.github.io/markmind-docs/index.html#/relate)
 
 ## Introduction
 
