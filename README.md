@@ -71,7 +71,7 @@ Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidia
 ```YAML
 ---
 
-MindMap-plugin: basic (or rich)
+mindmap-plugin: basic (or rich)
 
 ---
 ```
@@ -92,7 +92,7 @@ To access the Outline mode you can either:
 ```YAML
 ---
 
-MindMap-plugin: basic
+mindmap-plugin: basic
 display-mode: outline
 
 ---
@@ -133,7 +133,7 @@ To access the Table mode you can either:
 ```YAML
 ---
 
-MindMap-plugin: basic
+mindmap-plugin: basic
 display-mode: table
 
 ---
@@ -155,7 +155,7 @@ In Rich mode you can use all the functions of basic mode. In addition you can:
 ```YAML
 ---
 
-MindMap-plugin: rich
+mindmap-plugin: rich
 
 ---
 
