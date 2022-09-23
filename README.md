@@ -206,7 +206,7 @@ mindmap-plugin: rich
 ---
 
 annotate-target: test/test.PDF
-annotate-type: PDF
+annotate-type: pdf
 
 ---
 ```
@@ -223,7 +223,7 @@ annotate-type: PDF
 ---
 
 annotate-target: test/test.PDF
-annotate-type: PDF
+annotate-type: pdf
 annotate-image-target: assets/image
 
 ---
