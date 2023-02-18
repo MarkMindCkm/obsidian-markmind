@@ -12,6 +12,7 @@ This is not an open source project but [lishid](https://github.com/lishid) (obsi
 |  Most features in `Rich` mode of MindMap | PDF annotate                                       |
 |  List mode                               | Support development                                |
 |  PC and Mobile support                   | PC and Mobile support                              |
+|  Not support                             | Export mindmap as pdf file                         |
 |  $0                                      | $12 (forever) Buy [here](https://www.MarkMind.net) |
 
 You can try it for 30 days for free. After 30 days, you can purchase a code on the website
@@ -172,6 +173,9 @@ mindmap-plugin: rich
    - Use `CTRL + P` and click `Export to HTML` command
 - Getting markdown in `rich` mode
    - You can find `Copy as markdown` menu in `More options`
+- Exporting MindMap to pdf
+   - download lasted obsidian,open a mind map in a independ window
+   - Use `CTRL + P` and click `Export mindmap as a pdf file` command
 
 <img src = 'https://user-images.githubusercontent.com/18719494/142220099-a69fa850-4ead-465a-98e5-f45611b48b55.gif' width='800px'>
 
@@ -185,12 +189,12 @@ mindmap-plugin: rich
 
 1. Download the appropriate PDFJS [plugins](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.5.9/pdfjs.zip)
 2. Install PDFJS plugin:
-   - On Android, create an `Android` folder then extract `PDFJS` folder into it
-   - On IOS, create an `IOS` folder, then extract `PDFJS` folder into it
+   - On Android, create an `andriod` folder then extract `pdfjs` folder into it
+   - On IOS, create an `ios` folder, then extract `pdfjs` folder into it
       - The PDFJS path is set separately and if it does not you can try `filza` app, it can find the path to Obsidian
-   - On PC, extract `PDFJS` folder to `.obsidian` folder
-      - `CTRL/CMD + P`, click `set up PDFJS plugin path`
-   - On Mac `Command + Shift+ .` to show the hidden folder, extract `PDFJS` folder to `.obsidian` folder
+   - On PC, extract `pdfjs` folder to `.obsidian` folder
+      - `CTRL/CMD + P`, click `set up pdfjs plugin path`
+   - On Mac `Command + Shift+ .` to show the hidden folder, extract `pdfjs` folder to `.obsidian` folder
    - Restart Obsidian
 2. Open settings tab for MarkMind and set the PDF plugin path
    - For example: `D:\plugins\PDFJS`
