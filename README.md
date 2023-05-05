@@ -196,7 +196,7 @@ mindmap-plugin: rich
       - `CTRL/CMD + P`, click `set up pdfjs plugin path`
    - On Mac `Command + Shift+ .` to show the hidden folder, extract `pdfjs` folder to `.obsidian` folder
    - Restart Obsidian
-3. Ensure these folders are present in PDFJS folder (VaultLocation\.obsidian\PDFJS):
+3. Ensure these folders are present in PDFJS folder (VaultLocation\.obsidian\pdfjs):
    - build
    - epub
    - epub.js
