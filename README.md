@@ -1,5 +1,7 @@
 # Obsidian MarkMind
 
+[中文手册](https://github.com/MarkMindCkm/obsidian-MarkMind/blob/main/docs/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.md)
+
 ### **Notice**
 
 This is not an open source project but [lishid](https://github.com/lishid) (obsidian developer) can check this code
@@ -295,3 +297,47 @@ Comment:{{comment}}
 ## Donating
 
 <a href="https://www.buymeacoffee.com/markmind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markmind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
+---
+
+### changeLog
+
+#### v1.7.2
+
+> This is a major version update !
+
+[Download PDFjs plugin](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.7.2/pdfjs.zip)
+
+1. add a table layout for rich mindmap
+2. update `andoird` and `ios` pdfjs plugin , the version will be same as pc version
+3. fix `only copy annotate link` in setting tab of markmind , now the link type is `[📌](link)`
+4. fix the image name of rect annotate,not paste path in `[[  ]]`
+5. Open mind map increases speed
+
+The program is becoming increasingly complex and difficult, please support me！
+
+[Buy a active code](https://www.markmind.net)
+
+The prices will be adjusted soon
+
+
+---
+这是一次大的版本更新，请注意！
+[下载 PDFjs 插件](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.7.2/pdfjs.zip)
+
+1.  增加表格布局
+2. 更新安卓和 ios 的 pdfjs 和电脑版本一致，现在可以在不同系统之间通用
+3. 修复 只复制标注链接 的 问题
+4. 修复复制矩形标注的链接，去掉其中的图片路径，只使用图片名称
+5. 增加打开思维导图的速度
+
+程序越来越复杂，难度越来越大，请支持我!
+[购买一个激活码](https://www.markmind.net/cn)
+
+也许后面会调整价格。
+
+----
+
+
+![table](https://github.com/MarkMindCkm/obsidian-markmind/assets/18719494/70c90efb-3b15-4216-8c9b-874b5cf87b5e)
+
