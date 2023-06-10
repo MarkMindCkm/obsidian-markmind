@@ -300,7 +300,7 @@ Comment:{{comment}}
 
 ---
 
-### changeLog
+### ChangeLog
 
 #### v1.7.2
 
