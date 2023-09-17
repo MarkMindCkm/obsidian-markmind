@@ -189,7 +189,7 @@ mindmap-plugin: rich
 
 ### How to use PDF annotate
 
-1. Download the appropriate [PDFJS plugins](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.8.1/pdfjs.zip)
+1. Download the appropriate [PDFJS plugins](https://github.com/MarkMindCkm/obsidian-markmind/releases/download/1.8.2/pdfjs.zip)
 2. Install PDFJS plugin:
    - On Android, create an `andriod` folder then extract `pdfjs` folder into it
    - On IOS, create an `ios` folder, then extract `pdfjs` folder into it
