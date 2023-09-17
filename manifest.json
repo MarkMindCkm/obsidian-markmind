@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-markmind",
 	"name": "obsidian markmind",
-	"version": "1.8.1",
+	"version": "1.8.2",
 	"minAppVersion": "0.9.12",
 	"description": "This is a mindmap，outline and pdf annotate tool for obsidian.",
 	"author": "Mark",
