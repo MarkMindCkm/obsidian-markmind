@@ -182,8 +182,14 @@ mindmap-plugin: rich
 <img src = 'https://user-images.githubusercontent.com/18719494/142220099-a69fa850-4ead-465a-98e5-f45611b48b55.gif' width='800px'>
 
 
+
+
+----
+
 ## Notice
 At present, pdf annotation only supports obsidian 1.4 version ([issue](https://github.com/obsidianmd/obsidian-api/issues/142)). If you use obsidian 1.5 or later, please use markmind software([Download](https://github.com/MarkMindCkm/MarkMind-ltd/releases)) version, which can be used with obsidian and is compatible with this plug-in.
+
+----
 
 ## PDF annotate 
 
