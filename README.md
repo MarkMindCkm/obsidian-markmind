@@ -15,7 +15,7 @@ This is not an open source project but [lishid](https://github.com/lishid) (obsi
 |  List mode                               | Support development                                |
 |  PC and Mobile support                   | PC and Mobile support                              |
 |  Not support                             | Export mindmap as pdf file                         |
-|  $0                                      | $12 (forever) Buy [here](https://www.MarkMind.net) |
+|  $0                                      | $16 (forever) Buy [here](https://www.MarkMind.net) |
 
 You can try it for 30 days for free. After 30 days, you can purchase a code on the website
 
