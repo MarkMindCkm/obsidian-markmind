@@ -33,7 +33,7 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
    - Copy text from browser to MindMap
    - Drag multiple nodes
 
-### PDF annotate
+### PDF annotation
 
 - [PDF annotate](https://github.com/MarkMindCkm/obsidian-markmind/blob/main/README.md#pdf-annotate)
 
