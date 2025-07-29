@@ -32,11 +32,6 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
    - Drag image from desktop to rich mode of MindMap
    - Copy text from browser to MindMap
    - Drag multiple nodes
-### PDF annotator
-- [Setup and features](https://markmindckm.github.io/markmind-docs/index.html#/pdfAnnotator)
-- [Extracting annotations from PDF files](https://markmindckm.github.io/markmind-docs/index.html#/highlight)
-- [Committing highlights and notes to PDF](https://markmindckm.github.io/markmind-docs/index.html#/commitHighlight)
-- [Relate MindMap node with annotation](https://markmindckm.github.io/markmind-docs/index.html#/relate)
 
 ## Introduction
 
@@ -191,6 +186,13 @@ At present, pdf annotation only supports obsidian 1.4 version ([issue](https://g
 
 ----
 
+
+##
+
+
+
+<!--
+
 ## PDF annotate 
 
 - Highlight text
@@ -303,6 +305,8 @@ Comment:{{comment}}
 #### Demonstration
 
 <img src = 'https://user-images.githubusercontent.com/18719494/130031749-84b84833-a52c-4ad1-b589-00eb2d8af317.gif' width="800px">
+
+-->
 
 ## Donating
 
