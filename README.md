@@ -187,7 +187,29 @@ At present, pdf annotation only supports obsidian 1.4 version ([issue](https://g
 ----
 
 
-##
+## PDF annotate 
+- use PDF++ plugin
+- highlight annotate
+- rect annotate
+- Relate MindMap node and annotate
+
+### How to use PDF annotate
+- download PDF++ plugin 
+- if open annotate support in markmind setting tab , please close it
+<img width="300" height="80" alt="QQ_1753756220445" src="https://github.com/user-attachments/assets/917fd382-fa4f-4e40-a01d-011de697c164" />
+- open a pdf
+- Do a hihlight or rect annotate
+- paste (ctrl v) in a node of mindmap
+
+#### annotate vedio
+
+
+
+https://github.com/user-attachments/assets/c1c28f89-31e2-41bf-a4b4-6f20cf2367c9
+
+
+
+
 
 
 
