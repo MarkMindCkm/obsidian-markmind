@@ -33,6 +33,11 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
    - Copy text from browser to MindMap
    - Drag multiple nodes
 
+### PDF annotate
+
+- [PDF annotate](https://github.com/MarkMindCkm/obsidian-markmind/blob/main/README.md#pdf-annotate)
+
+
 ## Introduction
 
 Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidian API
