@@ -210,13 +210,10 @@ At present, pdf annotation only supports obsidian 1.4 version ([issue](https://g
 #### annotate vedio
 
 
-
-https://github.com/user-attachments/assets/c1c28f89-31e2-41bf-a4b4-6f20cf2367c9
-
+https://github.com/user-attachments/assets/464a8db5-7d47-4dae-9a74-96107687525e
 
 
-https://github.com/user-attachments/assets/f4fbca06-506c-4218-b4ff-33ef9ac565f5
-
+https://github.com/user-attachments/assets/8436d83e-3dae-4745-b478-71ffa6822ca1
 
 
 
