@@ -3,7 +3,7 @@
 	"name": "Markmind",
 	"version": "3.3.9",
 	"minAppVersion": "0.9.12",
-	"description": "This is a mindmap，outline tool for obsidian.",
+	"description": "This is a mindmap,outline tool for obsidian.",
 	"author": "Mark",
 	"authorUrl": "https://github.com/MarkMindCkm/obsidian-markmind",
 	"isDesktopOnly": false
