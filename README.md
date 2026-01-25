@@ -20,6 +20,14 @@ This is not an open source project but [lishid](https://github.com/lishid) (obsi
 You can try it for 30 days for free. After 30 days, you can purchase a code on the website
 
 ## MarkMind docs navigation
+
+## Vedio
+
+- [How to use basic mode of MindMap](https://www.youtube.com/watch?v=7SkIHeQOI44)
+- [How to use markdown mode of MindMap](https://www.youtube.com/watch?v=87dnyg4vEBo)
+- [How to use rich mode of MindMap](https://www.youtube.com/watch?v=d65gWBZOJKQ)
+
+
 ### MarkMind
 - [Create basic mode of MindMap](https://markmindckm.github.io/markmind-docs/index.html#/basic)
 - [Display basic mode to outline](https://markmindckm.github.io/markmind-docs/index.html#/outline)
