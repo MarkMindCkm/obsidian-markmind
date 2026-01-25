@@ -21,7 +21,7 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
 
 ## MarkMind docs navigation
 
-## Vedio
+## Youtube Vedio
 
 - [How to use basic mode of MindMap](https://www.youtube.com/watch?v=7SkIHeQOI44)
 - [How to use markdown mode of MindMap](https://www.youtube.com/watch?v=87dnyg4vEBo)
