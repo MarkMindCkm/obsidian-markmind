@@ -26,6 +26,9 @@ You can try it for 30 days for free. After 30 days, you can purchase a code on t
 - [How to use basic mode of MindMap](https://www.youtube.com/watch?v=7SkIHeQOI44)
 - [How to use markdown mode of MindMap](https://www.youtube.com/watch?v=87dnyg4vEBo)
 - [How to use rich mode of MindMap](https://youtu.be/ajg2VWol0L4)
+- [How to import and export mindmap as a pdf](https://youtu.be/Rgu1gvWdThE)
+- [How to use presentation mode of markmind](https://youtu.be/pd0Phl7U66E)
+- [How to annotate pdf with pdf++ plugin](https://www.youtube.com/watch?v=07leD_6CE5E)
 
 
 ### MarkMind
