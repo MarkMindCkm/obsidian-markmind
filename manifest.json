@@ -1,10 +1,10 @@
 {
 	"id": "obsidian-markmind",
 	"name": "Markmind",
-	"version": "3.5.8",
+	"version": "3.5.9",
 	"minAppVersion": "0.9.12",
 	"description": "This is a mindmap,outline software.",
 	"author": "Mark",
-	"authorUrl": "https://github.com/MarkMindCkm/obsidian-markmind",
+	"authorUrl": "https://github.com/MarkMindCkm",
 	"isDesktopOnly": false
 }
