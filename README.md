@@ -4,7 +4,7 @@
 
 ### **Notice**
 
-This is not an open source project but [lishid](https://github.com/lishid) (obsidian developer) can check this code
+This project have pass automated review by obsidian . [#1049](https://github.com/MarkMindCkm/obsidian-markmind/issues/1049)
 
 ### Feature Comparison
 
